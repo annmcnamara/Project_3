@@ -52,6 +52,14 @@ We did the following to transform the data:
 ## Data Load: 
 We then loaded the CSV file into a Tableau workbook. This workbook can be found at the following location:
 https://public.tableau.com/profile/firdosh.patel#!/vizhome/Project_03_FP/Story1 We created 9 worksheets, 4 dashboards, and one Story.
+
+The Story contains 4 captions representing the 4 dashboards as follows:
+1.	Caption # 1 depicts Actual Data for all 216 countries using 2 Geographical Maps - - one for the Global Cumulative Cases by Country, and the other for the Global Cumulative Deaths by Country. There is a date slider that the user can use to view these maps for any date within the dataset.
+2.	Caption # 2 depicts the Actual Data for the 10 worst affected countries using 2 Geographical maps - one based on the Cumulative Cases by Country, and the other based on the Cumulative Deaths by Country. There is also a “Tree Map” between these 2 Geographical maps. The Tree Map depicts the data for the 10 worst affected countries using rectangle sizes and colors. The Rectangle size represent the scale of the cumulative cases (the larger the rectangle size, the larger the number of the Cumulative Cases and vice Versa). The Rectangle colors represent the scale of the Cumulative Deaths on a scale ranging from yellow to amber/orange  to red (the closer the color to red, the larger the number of the Cumulative Deaths, whereas the closer the color to yellow, the smaller the number of the Cumulative Deaths). There is a date slider that the user can use to view these 3 maps for any date within the dataset.
+3.	Caption # 3 depicts the Actual Data vs the Predicted Data for the 10 worst affected countries using 2 Charts - - one for Cumulative Cases by Country and the other for Cumulative Deaths by Country for the entire date range within the Dataset. The predictions were made for the entire date range of the actual data PLUS a period of one month beyond the last date with Actual Data. There is a dropdown box which allows the user to select any of the 10 worst affected countries. There is a second dropdown box which allows the user to specify the range of the predicted data. There are 4 choices available to the user – 1 Week, 2 Weeks, 3 Weeks, and 4 Weeks beyond the date range of the actual data. 
+4.	Caption # 4 contains 3 sections. The left section contains a link to the World Health Organization website from which we sourced the data. The middle section contains a link to the SKLearn website from which we got the SVM (Support Vector Machine) Machine Learning library that we used to predict the data. The right section contains a link to a webpage that shows how the SVM Machine Learning Library compares to other prominent Machine Learning Libraries on a chart that measures Accuracy vs Interpretability.  
+
+
 <br>
 <br>
 
