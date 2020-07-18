@@ -57,7 +57,7 @@ A table of the accuracy scores can be seen below.   As expected the model traine
 
 ## Data Load: 
 We then loaded the CSV file into a Tableau workbook. This workbook can be found at the following location:
-https://public.tableau.com/profile/firdosh.patel#!/vizhome/Project_03_FP/Story1 We created 9 worksheets, 4 dashboards, and one Story.
+https://public.tableau.com/profile/firdosh.patel#!/vizhome/Project_03_FP/Story1 We created 11 worksheets, 4 dashboards, and one Story.
 
 The Story contains 4 captions representing the 4 dashboards as follows:
 ![Caption1](Images/one.png)
