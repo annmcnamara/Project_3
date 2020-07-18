@@ -49,6 +49,10 @@ We did the following to transform the data:
 4.	Exported the original data along with the predicted data to a new CSV file. 
 5.  We also trained the model on global data on  new daily cases, the new daily deaths, the cumulative cases and the cumulative deaths by date. 
 
+A table of the accuracy scores can be seen below.   As expected the model trained more accurately on some datasets than others. 
+
+![Accuracy](Images/Accuracy.png)
+
 ## Data Load: 
 We then loaded the CSV file into a Tableau workbook. This workbook can be found at the following location:
 https://public.tableau.com/profile/firdosh.patel#!/vizhome/Project_03_FP/Story1 We created 9 worksheets, 4 dashboards, and one Story.
