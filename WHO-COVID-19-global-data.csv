@@ -276,6 +276,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,AL,Albania,EURO,85,3752,4,101,,,,
 7/16/20,AL,Albania,EURO,99,3851,3,104,,,,
 7/17/20,AL,Albania,EURO,55,3906,3,107,,,,
+7/18/20,AL,Albania,EURO,0,3906,0,107,,,,
 2/25/20,DZ,Algeria,AFRO,1,1,0,0,,,,
 2/26/20,DZ,Algeria,AFRO,0,1,0,0,,,,
 2/27/20,DZ,Algeria,AFRO,0,1,0,0,,,,
@@ -420,6 +421,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,DZ,Algeria,AFRO,527,20216,10,1028,,,,
 7/16/20,DZ,Algeria,AFRO,554,20770,12,1040,,,,
 7/17/20,DZ,Algeria,AFRO,585,21355,12,1052,,,,
+7/18/20,DZ,Algeria,AFRO,593,21948,5,1057,,,,
 3/2/20,AD,Andorra,EURO,1,1,0,0,,,,
 3/3/20,AD,Andorra,EURO,0,1,0,0,,,,
 3/4/20,AD,Andorra,EURO,0,1,0,0,,,,
@@ -558,6 +560,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,AD,Andorra,EURO,3,861,0,52,,,,
 7/16/20,AD,Andorra,EURO,1,862,0,52,,,,
 7/17/20,AD,Andorra,EURO,15,877,0,52,,,,
+7/18/20,AD,Andorra,EURO,3,880,0,52,,,,
 3/21/20,AO,Angola,AFRO,2,2,0,0,,,,
 3/22/20,AO,Angola,AFRO,0,2,0,0,,,,
 3/23/20,AO,Angola,AFRO,0,2,0,0,,,,
@@ -677,6 +680,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,AO,Angola,AFRO,16,541,0,26,,,,
 7/16/20,AO,Angola,AFRO,35,576,1,27,,,,
 7/17/20,AO,Angola,AFRO,31,607,1,28,,,,
+7/18/20,AO,Angola,AFRO,31,638,1,29,,,,
 3/26/20,AI,Anguilla,AMRO,2,2,0,0,,,,
 3/27/20,AI,Anguilla,AMRO,0,2,0,0,,,,
 3/28/20,AI,Anguilla,AMRO,0,2,0,0,,,,
@@ -1197,6 +1201,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,AM,Armenia,EURO,515,33005,11,592,,,,
 7/16/20,AM,Armenia,EURO,554,33559,15,607,,,,
 7/17/20,AM,Armenia,EURO,442,34001,13,620,,,,
+7/18/20,AM,Armenia,EURO,461,34462,11,631,,,,
 3/17/20,AW,Aruba,AMRO,2,2,0,0,,,,
 3/18/20,AW,Aruba,AMRO,2,4,0,0,,,,
 3/19/20,AW,Aruba,AMRO,1,5,0,0,,,,
@@ -1641,6 +1646,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,AT,Austria,EURO,201,19060,1,709,,,,
 7/16/20,AT,Austria,EURO,55,19115,1,710,,,,
 7/17/20,AT,Austria,EURO,153,19268,1,711,,,,
+7/18/20,AT,Austria,EURO,138,19406,0,711,,,,
 2/29/20,AZ,Azerbaijan,EURO,3,3,0,0,,,,
 3/1/20,AZ,Azerbaijan,EURO,0,3,0,0,,,,
 3/2/20,AZ,Azerbaijan,EURO,0,3,0,0,,,,
@@ -1781,6 +1787,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,AZ,Azerbaijan,EURO,543,25113,6,319,,,,
 7/16/20,AZ,Azerbaijan,EURO,559,25672,7,326,,,,
 7/17/20,AZ,Azerbaijan,EURO,493,26165,8,334,,,,
+7/18/20,AZ,Azerbaijan,EURO,471,26636,7,341,,,,
 3/17/20,BS,Bahamas,AMRO,1,1,0,0,,,,
 3/18/20,BS,Bahamas,AMRO,2,3,0,0,,,,
 3/19/20,BS,Bahamas,AMRO,0,3,0,0,,,,
@@ -2448,6 +2455,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BY,Belarus,EURO,155,65269,6,474,,,,
 7/16/20,BY,Belarus,EURO,174,65443,6,480,,,,
 7/17/20,BY,Belarus,EURO,180,65623,5,485,,,,
+7/18/20,BY,Belarus,EURO,159,65782,6,491,,,,
 2/4/20,BE,Belgium,EURO,1,1,0,0,,,,
 2/5/20,BE,Belgium,EURO,0,1,0,0,,,,
 2/6/20,BE,Belgium,EURO,0,1,0,0,,,,
@@ -2613,6 +2621,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BE,Belgium,EURO,0,62781,0,9787,,,,
 7/16/20,BE,Belgium,EURO,258,63039,5,9792,,,,
 7/17/20,BE,Belgium,EURO,199,63238,3,9795,,,,
+7/18/20,BE,Belgium,EURO,261,63499,5,9800,,,,
 3/24/20,BZ,Belize,AMRO,1,1,0,0,,,,
 3/25/20,BZ,Belize,AMRO,0,1,0,0,,,,
 3/26/20,BZ,Belize,AMRO,1,2,0,0,,,,
@@ -2853,6 +2862,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BJ,Benin,AFRO,85,1463,2,28,,,,
 7/16/20,BJ,Benin,AFRO,0,1463,0,28,,,,
 7/17/20,BJ,Benin,AFRO,0,1463,0,28,,,,
+7/18/20,BJ,Benin,AFRO,139,1602,3,31,,,,
 3/18/20,BM,Bermuda,AMRO,2,2,0,0,,,,
 3/19/20,BM,Bermuda,AMRO,0,2,0,0,,,,
 3/20/20,BM,Bermuda,AMRO,0,2,0,0,,,,
@@ -3482,6 +3492,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BA,Bosnia and Herzegovina,EURO,197,7176,5,229,,,,
 7/16/20,BA,Bosnia and Herzegovina,EURO,231,7407,4,233,,,,
 7/17/20,BA,Bosnia and Herzegovina,EURO,274,7681,6,239,,,,
+7/18/20,BA,Bosnia and Herzegovina,EURO,227,7908,4,243,,,,
 4/1/20,BW,Botswana,AFRO,3,3,0,0,,,,
 4/2/20,BW,Botswana,AFRO,0,3,1,1,,,,
 4/3/20,BW,Botswana,AFRO,1,4,0,1,,,,
@@ -3590,6 +3601,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BW,Botswana,AFRO,0,399,0,1,,,,
 7/16/20,BW,Botswana,AFRO,0,399,0,1,,,,
 7/17/20,BW,Botswana,AFRO,123,522,0,1,,,,
+7/18/20,BW,Botswana,AFRO,0,522,0,1,,,,
 2/26/20,BR,Brazil,AMRO,1,1,0,0,,,-72256.3392,-399.6809431
 2/27/20,BR,Brazil,AMRO,0,1,0,0,,,-72255.62723,-399.651236
 2/28/20,BR,Brazil,AMRO,0,1,0,0,,,-72250.64343,-399.4432863
@@ -4142,6 +4154,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BG,Bulgaria,EURO,234,7645,7,283,,,,
 7/16/20,BG,Bulgaria,EURO,232,7877,6,289,,,,
 7/17/20,BG,Bulgaria,EURO,267,8144,4,293,,,,
+7/18/20,BG,Bulgaria,EURO,298,8442,4,297,,,,
 3/11/20,BF,Burkina Faso,AFRO,2,2,0,0,,,,
 3/12/20,BF,Burkina Faso,AFRO,0,2,0,0,,,,
 3/13/20,BF,Burkina Faso,AFRO,0,2,0,0,,,,
@@ -4271,6 +4284,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BF,Burkina Faso,AFRO,1,1037,0,53,,,,
 7/16/20,BF,Burkina Faso,AFRO,1,1038,0,53,,,,
 7/17/20,BF,Burkina Faso,AFRO,0,1038,0,53,,,,
+7/18/20,BF,Burkina Faso,AFRO,7,1045,0,53,,,,
 4/1/20,BI,Burundi,AFRO,2,2,0,0,,,,
 4/2/20,BI,Burundi,AFRO,0,2,0,0,,,,
 4/3/20,BI,Burundi,AFRO,1,3,0,0,,,,
@@ -4379,6 +4393,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,BI,Burundi,AFRO,0,269,0,1,,,,
 7/16/20,BI,Burundi,AFRO,34,303,0,1,,,,
 7/17/20,BI,Burundi,AFRO,7,310,0,1,,,,
+7/18/20,BI,Burundi,AFRO,0,310,0,1,,,,
 3/20/20,CV,Cabo Verde,AFRO,1,1,0,0,,,,
 3/21/20,CV,Cabo Verde,AFRO,2,3,0,0,,,,
 3/22/20,CV,Cabo Verde,AFRO,0,3,0,0,,,,
@@ -4499,6 +4514,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CV,Cabo Verde,AFRO,58,1780,0,19,,,,
 7/16/20,CV,Cabo Verde,AFRO,57,1837,0,19,,,,
 7/17/20,CV,Cabo Verde,AFRO,57,1894,0,19,,,,
+7/18/20,CV,Cabo Verde,AFRO,45,1939,1,20,,,,
 1/27/20,KH,Cambodia,WPRO,1,1,0,0,,,,
 1/28/20,KH,Cambodia,WPRO,0,1,0,0,,,,
 1/29/20,KH,Cambodia,WPRO,0,1,0,0,,,,
@@ -4807,6 +4823,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CM,Cameroon,AFRO,0,15173,0,359,,,,
 7/16/20,CM,Cameroon,AFRO,884,16057,10,369,,,,
 7/17/20,CM,Cameroon,AFRO,0,16057,0,369,,,,
+7/18/20,CM,Cameroon,AFRO,100,16157,4,373,,,,
 1/26/20,CA,Canada,AMRO,1,1,0,0,,,,
 1/27/20,CA,Canada,AMRO,1,2,0,0,,,,
 1/28/20,CA,Canada,AMRO,1,3,0,0,,,,
@@ -5236,6 +5253,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CF,Central African Republic,AFRO,0,4321,0,53,,,,
 7/16/20,CF,Central African Republic,AFRO,41,4362,0,53,,,,
 7/17/20,CF,Central African Republic,AFRO,11,4373,0,53,,,,
+7/18/20,CF,Central African Republic,AFRO,16,4389,0,53,,,,
 3/19/20,TD,Chad,AFRO,1,1,0,0,,,,
 3/20/20,TD,Chad,AFRO,0,1,0,0,,,,
 3/21/20,TD,Chad,AFRO,0,1,0,0,,,,
@@ -5357,6 +5375,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,TD,Chad,AFRO,4,884,0,75,,,,
 7/16/20,TD,Chad,AFRO,1,885,0,75,,,,
 7/17/20,TD,Chad,AFRO,1,886,0,75,,,,
+7/18/20,TD,Chad,AFRO,1,887,0,75,,,,
 3/3/20,CL,Chile,AMRO,1,1,0,0,,,-943.8515572,-177.6273585
 3/4/20,CL,Chile,AMRO,0,1,0,0,,,-943.7066117,-177.6242582
 3/5/20,CL,Chile,AMRO,0,1,0,0,,,-942.6919934,-177.602556
@@ -5928,6 +5947,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,KM,Comoros,AFRO,4,321,0,7,,,,
 7/16/20,KM,Comoros,AFRO,0,321,0,7,,,,
 7/17/20,KM,Comoros,AFRO,7,328,0,7,,,,
+7/18/20,KM,Comoros,AFRO,0,328,0,7,,,,
 3/15/20,CG,Congo,AFRO,1,1,0,0,,,,
 3/16/20,CG,Congo,AFRO,0,1,0,0,,,,
 3/17/20,CG,Congo,AFRO,0,1,0,0,,,,
@@ -6053,6 +6073,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CG,Congo,AFRO,136,2358,1,48,,,,
 7/16/20,CG,Congo,AFRO,0,2358,0,48,,,,
 7/17/20,CG,Congo,AFRO,0,2358,0,48,,,,
+7/18/20,CG,Congo,AFRO,275,2633,1,49,,,,
 3/8/20,CR,Costa Rica,AMRO,5,5,0,0,,,,
 3/9/20,CR,Costa Rica,AMRO,4,9,0,0,,,,
 3/10/20,CR,Costa Rica,AMRO,0,9,0,0,,,,
@@ -6314,6 +6335,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CI,Côte d’Ivoire,AFRO,165,13037,3,87,,,,
 7/16/20,CI,Côte d’Ivoire,AFRO,0,13037,0,87,,,,
 7/17/20,CI,Côte d’Ivoire,AFRO,366,13403,0,87,,,,
+7/18/20,CI,Côte d’Ivoire,AFRO,293,13696,0,87,,,,
 2/25/20,HR,Croatia,EURO,1,1,0,0,,,,
 2/26/20,HR,Croatia,EURO,2,3,0,0,,,,
 2/27/20,HR,Croatia,EURO,0,3,0,0,,,,
@@ -6458,6 +6480,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,HR,Croatia,EURO,52,3827,0,119,,,,
 7/16/20,HR,Croatia,EURO,126,3953,0,119,,,,
 7/17/20,HR,Croatia,EURO,86,4039,0,119,,,,
+7/18/20,HR,Croatia,EURO,98,4137,1,120,,,,
 3/13/20,CU,Cuba,AMRO,4,4,0,0,,,,
 3/14/20,CU,Cuba,AMRO,0,4,0,0,,,,
 3/15/20,CU,Cuba,AMRO,0,4,0,0,,,,
@@ -6845,6 +6868,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CY,Cyprus,EURO,0,1022,0,19,,,,
 7/16/20,CY,Cyprus,EURO,1,1023,0,19,,,,
 7/17/20,CY,Cyprus,EURO,8,1031,0,19,,,,
+7/18/20,CY,Cyprus,EURO,0,1031,0,19,,,,
 3/1/20,CZ,Czechia,EURO,3,3,0,0,,,,
 3/2/20,CZ,Czechia,EURO,0,3,0,0,,,,
 3/3/20,CZ,Czechia,EURO,2,5,0,0,,,,
@@ -6984,6 +7008,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CZ,Czechia,EURO,103,13341,2,355,,,,
 7/16/20,CZ,Czechia,EURO,134,13475,0,355,,,,
 7/17/20,CZ,Czechia,EURO,137,13612,0,355,,,,
+7/18/20,CZ,Czechia,EURO,130,13742,3,358,,,,
 3/11/20,CD,Democratic Republic of the Congo,AFRO,1,1,0,0,,,,
 3/12/20,CD,Democratic Republic of the Congo,AFRO,0,1,0,0,,,,
 3/13/20,CD,Democratic Republic of the Congo,AFRO,0,1,0,0,,,,
@@ -7113,6 +7138,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CD,Democratic Republic of the Congo,AFRO,60,8134,0,189,,,,
 7/16/20,CD,Democratic Republic of the Congo,AFRO,28,8162,2,191,,,,
 7/17/20,CD,Democratic Republic of the Congo,AFRO,36,8198,1,192,,,,
+7/18/20,CD,Democratic Republic of the Congo,AFRO,50,8248,0,192,,,,
 2/27/20,DK,Denmark,EURO,1,1,0,0,,,,
 2/28/20,DK,Denmark,EURO,1,2,0,0,,,,
 2/29/20,DK,Denmark,EURO,1,3,0,0,,,,
@@ -7255,6 +7281,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,DK,Denmark,EURO,24,13061,0,610,,,,
 7/16/20,DK,Denmark,EURO,31,13092,0,610,,,,
 7/17/20,DK,Denmark,EURO,32,13124,0,610,,,,
+7/18/20,DK,Denmark,EURO,49,13173,1,611,,,,
 3/18/20,DJ,Djibouti,EMRO,1,1,0,0,,,,
 3/19/20,DJ,Djibouti,EMRO,0,1,0,0,,,,
 3/20/20,DJ,Djibouti,EMRO,0,1,0,0,,,,
@@ -8179,6 +8206,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GQ,Equatorial Guinea,AFRO,0,1043,0,12,,,,
 7/16/20,GQ,Equatorial Guinea,AFRO,0,1043,0,12,,,,
 7/17/20,GQ,Equatorial Guinea,AFRO,1307,2350,29,41,,,,
+7/18/20,GQ,Equatorial Guinea,AFRO,0,2350,0,41,,,,
 3/21/20,ER,Eritrea,AFRO,1,1,0,0,,,,
 3/22/20,ER,Eritrea,AFRO,0,1,0,0,,,,
 3/23/20,ER,Eritrea,AFRO,0,1,0,0,,,,
@@ -8298,6 +8326,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ER,Eritrea,AFRO,0,232,0,0,,,,
 7/16/20,ER,Eritrea,AFRO,0,232,0,0,,,,
 7/17/20,ER,Eritrea,AFRO,19,251,0,0,,,,
+7/18/20,ER,Eritrea,AFRO,0,251,0,0,,,,
 2/27/20,EE,Estonia,EURO,1,1,0,0,,,,
 2/28/20,EE,Estonia,EURO,0,1,0,0,,,,
 2/29/20,EE,Estonia,EURO,0,1,0,0,,,,
@@ -8440,6 +8469,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,EE,Estonia,EURO,1,2015,0,69,,,,
 7/16/20,EE,Estonia,EURO,1,2016,0,69,,,,
 7/17/20,EE,Estonia,EURO,0,2016,0,69,,,,
+7/18/20,EE,Estonia,EURO,4,2020,0,69,,,,
 3/14/20,SZ,Eswatini,AFRO,1,1,0,0,,,,
 3/15/20,SZ,Eswatini,AFRO,0,1,0,0,,,,
 3/16/20,SZ,Eswatini,AFRO,0,1,0,0,,,,
@@ -8566,6 +8596,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SZ,Eswatini,AFRO,45,1434,0,20,,,,
 7/16/20,SZ,Eswatini,AFRO,55,1489,0,20,,,,
 7/17/20,SZ,Eswatini,AFRO,63,1552,1,21,,,,
+7/18/20,SZ,Eswatini,AFRO,67,1619,0,21,,,,
 3/14/20,ET,Ethiopia,AFRO,1,1,0,0,,,,
 3/15/20,ET,Ethiopia,AFRO,0,1,0,0,,,,
 3/16/20,ET,Ethiopia,AFRO,3,4,0,0,,,,
@@ -8692,6 +8723,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ET,Ethiopia,AFRO,212,8181,7,146,,,,
 7/16/20,ET,Ethiopia,AFRO,294,8475,2,148,,,,
 7/17/20,ET,Ethiopia,AFRO,328,8803,2,150,,,,
+7/18/20,ET,Ethiopia,AFRO,344,9147,13,163,,,,
 4/5/20,FK,Falkland Islands (Malvinas),AMRO,1,1,0,0,,,,
 4/6/20,FK,Falkland Islands (Malvinas),AMRO,1,2,0,0,,,,
 4/7/20,FK,Falkland Islands (Malvinas),AMRO,0,2,0,0,,,,
@@ -8931,6 +8963,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,FO,Faroe Islands,EURO,0,188,0,0,,,,
 7/16/20,FO,Faroe Islands,EURO,0,188,0,0,,,,
 7/17/20,FO,Faroe Islands,EURO,0,188,0,0,,,,
+7/18/20,FO,Faroe Islands,EURO,0,188,0,0,,,,
 3/19/20,FJ,Fiji,WPRO,1,1,0,0,,,,
 3/20/20,FJ,Fiji,WPRO,0,1,0,0,,,,
 3/21/20,FJ,Fiji,WPRO,1,2,0,0,,,,
@@ -9224,6 +9257,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,FI,Finland,EURO,0,7293,0,328,,,,
 7/16/20,FI,Finland,EURO,0,7293,0,328,,,,
 7/17/20,FI,Finland,EURO,0,7293,0,328,,,,
+7/18/20,FI,Finland,EURO,8,7301,0,328,,,,
 1/24/20,FR,France,EURO,3,3,0,0,,,,
 1/25/20,FR,France,EURO,0,3,0,0,,,,
 1/26/20,FR,France,EURO,0,3,0,0,,,,
@@ -9400,6 +9434,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,FR,France,EURO,0,162390,0,29925,,,,
 7/16/20,FR,France,EURO,767,163157,90,30015,,,,
 7/17/20,FR,France,EURO,393,163550,17,30032,,,,
+7/18/20,FR,France,EURO,697,164247,14,30046,,,,
 3/7/20,GF,French Guiana,AMRO,5,5,0,0,,,,
 3/8/20,GF,French Guiana,AMRO,0,5,0,0,,,,
 3/9/20,GF,French Guiana,AMRO,0,5,0,0,,,,
@@ -9789,6 +9824,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GA,Gabon,AFRO,0,5942,0,46,,,,
 7/16/20,GA,Gabon,AFRO,0,5942,0,46,,,,
 7/17/20,GA,Gabon,AFRO,179,6121,0,46,,,,
+7/18/20,GA,Gabon,AFRO,0,6121,0,46,,,,
 3/18/20,GM,Gambia,AFRO,1,1,0,0,,,,
 3/19/20,GM,Gambia,AFRO,0,1,0,0,,,,
 3/20/20,GM,Gambia,AFRO,0,1,0,0,,,,
@@ -9911,6 +9947,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GM,Gambia,AFRO,0,64,0,3,,,,
 7/16/20,GM,Gambia,AFRO,0,64,0,3,,,,
 7/17/20,GM,Gambia,AFRO,14,78,0,3,,,,
+7/18/20,GM,Gambia,AFRO,15,93,1,4,,,,
 2/26/20,GE,Georgia,EURO,1,1,0,0,,,,
 2/27/20,GE,Georgia,EURO,0,1,0,0,,,,
 2/28/20,GE,Georgia,EURO,1,2,0,0,,,,
@@ -10054,6 +10091,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GE,Georgia,EURO,4,1003,0,15,,,,
 7/16/20,GE,Georgia,EURO,3,1006,0,15,,,,
 7/17/20,GE,Georgia,EURO,4,1010,0,15,,,,
+7/18/20,GE,Georgia,EURO,8,1018,0,15,,,,
 1/28/20,DE,Germany,EURO,4,4,0,0,,,,
 1/29/20,DE,Germany,EURO,0,4,0,0,,,,
 1/30/20,DE,Germany,EURO,0,4,0,0,,,,
@@ -10226,6 +10264,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,DE,Germany,EURO,763,199726,7,9071,,,,
 7/16/20,DE,Germany,EURO,534,200260,7,9078,,,,
 7/17/20,DE,Germany,EURO,583,200843,4,9082,,,,
+7/18/20,DE,Germany,EURO,529,201372,1,9083,,,,
 3/14/20,GH,Ghana,AFRO,1,1,0,0,,,,
 3/15/20,GH,Ghana,AFRO,1,2,0,0,,,,
 3/16/20,GH,Ghana,AFRO,0,2,0,0,,,,
@@ -10352,6 +10391,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GH,Ghana,AFRO,0,24988,0,139,,,,
 7/16/20,GH,Ghana,AFRO,442,25430,0,139,,,,
 7/17/20,GH,Ghana,AFRO,695,26125,0,139,,,,
+7/18/20,GH,Ghana,AFRO,447,26572,5,144,,,,
 3/3/20,GI,Gibraltar,EURO,1,1,0,0,,,,
 3/4/20,GI,Gibraltar,EURO,0,1,0,0,,,,
 3/5/20,GI,Gibraltar,EURO,0,1,0,0,,,,
@@ -10489,6 +10529,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GI,Gibraltar,EURO,0,180,0,0,,,,
 7/16/20,GI,Gibraltar,EURO,0,180,0,0,,,,
 7/17/20,GI,Gibraltar,EURO,0,180,0,0,,,,
+7/18/20,GI,Gibraltar,EURO,0,180,0,0,,,,
 2/26/20,GR,Greece,EURO,1,1,0,0,,,,
 2/27/20,GR,Greece,EURO,2,3,0,0,,,,
 2/28/20,GR,Greece,EURO,0,3,0,0,,,,
@@ -10632,6 +10673,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GR,Greece,EURO,57,3883,0,193,,,,
 7/16/20,GR,Greece,EURO,27,3910,0,193,,,,
 7/17/20,GR,Greece,EURO,29,3939,0,193,,,,
+7/18/20,GR,Greece,EURO,25,3964,1,194,,,,
 3/18/20,GL,Greenland,EURO,2,2,0,0,,,,
 3/19/20,GL,Greenland,EURO,0,2,0,0,,,,
 3/20/20,GL,Greenland,EURO,0,2,0,0,,,,
@@ -10754,6 +10796,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GL,Greenland,EURO,0,13,0,0,,,,
 7/16/20,GL,Greenland,EURO,0,13,0,0,,,,
 7/17/20,GL,Greenland,EURO,0,13,0,0,,,,
+7/18/20,GL,Greenland,EURO,0,13,0,0,,,,
 3/23/20,GD,Grenada,AMRO,1,1,0,0,,,,
 3/24/20,GD,Grenada,AMRO,0,1,0,0,,,,
 3/25/20,GD,Grenada,AMRO,0,1,0,0,,,,
@@ -11380,6 +11423,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GG,Guernsey,EURO,0,252,0,13,,,,
 7/16/20,GG,Guernsey,EURO,0,252,0,13,,,,
 7/17/20,GG,Guernsey,EURO,0,252,0,13,,,,
+7/18/20,GG,Guernsey,EURO,0,252,0,13,,,,
 3/14/20,GN,Guinea,AFRO,1,1,0,0,,,,
 3/15/20,GN,Guinea,AFRO,0,1,0,0,,,,
 3/16/20,GN,Guinea,AFRO,0,1,0,0,,,,
@@ -11506,6 +11550,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GN,Guinea,AFRO,30,6200,0,38,,,,
 7/16/20,GN,Guinea,AFRO,76,6276,0,38,,,,
 7/17/20,GN,Guinea,AFRO,83,6359,1,39,,,,
+7/18/20,GN,Guinea,AFRO,71,6430,0,39,,,,
 3/26/20,GW,Guinea-Bissau,AFRO,2,2,0,0,,,,
 3/27/20,GW,Guinea-Bissau,AFRO,0,2,0,0,,,,
 3/28/20,GW,Guinea-Bissau,AFRO,0,2,0,0,,,,
@@ -11620,6 +11665,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,GW,Guinea-Bissau,AFRO,0,1902,0,26,,,,
 7/16/20,GW,Guinea-Bissau,AFRO,25,1927,0,26,,,,
 7/17/20,GW,Guinea-Bissau,AFRO,0,1927,0,26,,,,
+7/18/20,GW,Guinea-Bissau,AFRO,23,1950,0,26,,,,
 3/13/20,GY,Guyana,AMRO,1,1,1,1,,,,
 3/14/20,GY,Guyana,AMRO,0,1,0,1,,,,
 3/15/20,GY,Guyana,AMRO,3,4,0,1,,,,
@@ -12003,6 +12049,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,VA,Holy See,EURO,0,12,0,0,,,,
 7/16/20,VA,Holy See,EURO,0,12,0,0,,,,
 7/17/20,VA,Holy See,EURO,0,12,0,0,,,,
+7/18/20,VA,Holy See,EURO,0,12,0,0,,,,
 3/12/20,HN,Honduras,AMRO,2,2,0,0,,,,
 3/13/20,HN,Honduras,AMRO,0,2,0,0,,,,
 3/14/20,HN,Honduras,AMRO,0,2,0,0,,,,
@@ -12268,6 +12315,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,HU,Hungary,EURO,16,4263,0,595,,,,
 7/16/20,HU,Hungary,EURO,0,4263,0,595,,,,
 7/17/20,HU,Hungary,EURO,16,4279,0,595,,,,
+7/18/20,HU,Hungary,EURO,14,4293,0,595,,,,
 3/1/20,IS,Iceland,EURO,2,2,0,0,,,,
 3/2/20,IS,Iceland,EURO,7,9,0,0,,,,
 3/3/20,IS,Iceland,EURO,7,16,0,0,,,,
@@ -12407,6 +12455,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,IS,Iceland,EURO,5,1905,0,10,,,,
 7/16/20,IS,Iceland,EURO,6,1911,0,10,,,,
 7/17/20,IS,Iceland,EURO,3,1914,0,10,,,,
+7/18/20,IS,Iceland,EURO,2,1916,0,10,,,,
 1/30/20,IN,India,SEARO,1,1,0,0,,,-35455.89256,-611.833472
 1/31/20,IN,India,SEARO,0,1,0,0,,,-35455.74852,-611.8285454
 2/1/20,IN,India,SEARO,0,1,0,0,,,-35454.74022,-611.7940593
@@ -13213,6 +13262,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,IE,Ireland,EURO,32,25670,0,1746,,,,
 7/16/20,IE,Ireland,EURO,13,25683,2,1748,,,,
 7/17/20,IE,Ireland,EURO,15,25698,1,1749,,,,
+7/18/20,IE,Ireland,EURO,32,25730,3,1752,,,,
 3/20/20,IM,Isle of Man,EURO,1,1,0,0,,,,
 3/21/20,IM,Isle of Man,EURO,1,2,0,0,,,,
 3/22/20,IM,Isle of Man,EURO,0,2,0,0,,,,
@@ -13333,6 +13383,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,IM,Isle of Man,EURO,0,336,0,24,,,,
 7/16/20,IM,Isle of Man,EURO,0,336,0,24,,,,
 7/17/20,IM,Isle of Man,EURO,0,336,0,24,,,,
+7/18/20,IM,Isle of Man,EURO,0,336,0,24,,,,
 2/21/20,IL,Israel,EURO,1,1,0,0,,,,
 2/22/20,IL,Israel,EURO,0,1,0,0,,,,
 2/23/20,IL,Israel,EURO,0,1,0,0,,,,
@@ -13481,6 +13532,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,IL,Israel,EURO,1735,41029,3,367,,,,
 7/16/20,IL,Israel,EURO,1573,42602,5,372,,,,
 7/17/20,IL,Israel,EURO,1896,44498,7,379,,,,
+7/18/20,IL,Israel,EURO,1946,46444,7,386,,,,
 1/29/20,IT,Italy,EURO,2,2,0,0,,,,
 1/30/20,IT,Italy,EURO,0,2,0,0,,,,
 1/31/20,IT,Italy,EURO,0,2,0,0,,,,
@@ -13652,6 +13704,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,IT,Italy,EURO,114,243344,17,34984,,,,
 7/16/20,IT,Italy,EURO,162,243506,13,34997,,,,
 7/17/20,IT,Italy,EURO,230,243736,20,35017,,,,
+7/18/20,IT,Italy,EURO,231,243967,11,35028,,,,
 3/10/20,JM,Jamaica,AMRO,1,1,0,0,,,,
 3/11/20,JM,Jamaica,AMRO,0,1,0,0,,,,
 3/12/20,JM,Jamaica,AMRO,0,1,0,0,,,,
@@ -14098,6 +14151,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,JE,Jersey,EURO,0,329,0,31,,,,
 7/16/20,JE,Jersey,EURO,0,329,0,31,,,,
 7/17/20,JE,Jersey,EURO,0,329,0,31,,,,
+7/18/20,JE,Jersey,EURO,2,331,0,31,,,,
 3/2/20,JO,Jordan,EMRO,1,1,0,0,,,,
 3/3/20,JO,Jordan,EMRO,0,1,0,0,,,,
 3/4/20,JO,Jordan,EMRO,0,1,0,0,,,,
@@ -14363,6 +14417,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,KZ,Kazakhstan,EURO,1759,63514,0,375,,,,
 7/16/20,KZ,Kazakhstan,EURO,1674,65188,0,375,,,,
 7/17/20,KZ,Kazakhstan,EURO,1707,66895,0,375,,,,
+7/18/20,KZ,Kazakhstan,EURO,1808,68703,0,375,,,,
 3/14/20,KE,Kenya,AFRO,1,1,0,0,,,,
 3/15/20,KE,Kenya,AFRO,0,1,0,0,,,,
 3/16/20,KE,Kenya,AFRO,2,3,0,0,,,,
@@ -14489,6 +14544,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,KE,Kenya,AFRO,497,10791,5,202,,,,
 7/16/20,KE,Kenya,AFRO,461,11252,7,209,,,,
 7/17/20,KE,Kenya,AFRO,421,11673,8,217,,,,
+7/18/20,KE,Kenya,AFRO,389,12062,5,222,,,,
 3/13/20,XK,Kosovo[1],EURO,2,2,0,0,,,,
 3/14/20,XK,Kosovo[1],EURO,3,5,0,0,,,,
 3/15/20,XK,Kosovo[1],EURO,0,5,0,0,,,,
@@ -14616,6 +14672,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,XK,Kosovo[1],EURO,0,5075,0,98,,,,
 7/16/20,XK,Kosovo[1],EURO,119,5194,4,102,,,,
 7/17/20,XK,Kosovo[1],EURO,135,5329,6,108,,,,
+7/18/20,XK,Kosovo[1],EURO,81,5410,6,114,,,,
 2/24/20,KW,Kuwait,EMRO,5,5,0,0,,,,
 2/25/20,KW,Kuwait,EMRO,4,9,0,0,,,,
 2/26/20,KW,Kuwait,EMRO,17,26,0,0,,,,
@@ -14884,6 +14941,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,KG,Kyrgyzstan,EURO,439,11977,11,160,,,,
 7/16/20,KG,Kyrgyzstan,EURO,521,12498,7,167,,,,
 7/17/20,KG,Kyrgyzstan,EURO,603,13101,5,172,,,,
+7/18/20,KG,Kyrgyzstan,EURO,11883,24984,751,923,,,,
 3/24/20,LA,Lao People's Democratic Republic,WPRO,2,2,0,0,,,,
 3/25/20,LA,Lao People's Democratic Republic,WPRO,0,2,0,0,,,,
 3/26/20,LA,Lao People's Democratic Republic,WPRO,1,3,0,0,,,,
@@ -15139,6 +15197,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,LV,Latvia,EURO,4,1178,0,31,,,,
 7/16/20,LV,Latvia,EURO,0,1178,0,31,,,,
 7/17/20,LV,Latvia,EURO,1,1179,0,31,,,,
+7/18/20,LV,Latvia,EURO,6,1185,0,31,,,,
 2/21/20,LB,Lebanon,EMRO,1,1,0,0,,,,
 2/22/20,LB,Lebanon,EMRO,0,1,0,0,,,,
 2/23/20,LB,Lebanon,EMRO,0,1,0,0,,,,
@@ -15353,6 +15412,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,LS,Lesotho,AFRO,11,256,0,3,,,,
 7/16/20,LS,Lesotho,AFRO,0,256,0,3,,,,
 7/17/20,LS,Lesotho,AFRO,0,256,0,3,,,,
+7/18/20,LS,Lesotho,AFRO,103,359,3,6,,,,
 3/17/20,LR,Liberia,AFRO,1,1,0,0,,,,
 3/18/20,LR,Liberia,AFRO,1,2,0,0,,,,
 3/19/20,LR,Liberia,AFRO,0,2,0,0,,,,
@@ -15476,6 +15536,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,LR,Liberia,AFRO,14,1038,0,51,,,,
 7/16/20,LR,Liberia,AFRO,18,1056,15,66,,,,
 7/17/20,LR,Liberia,AFRO,14,1070,2,68,,,,
+7/18/20,LR,Liberia,AFRO,0,1070,0,68,,,,
 3/25/20,LY,Libya,EMRO,1,1,0,0,,,,
 3/26/20,LY,Libya,EMRO,0,1,0,0,,,,
 3/27/20,LY,Libya,EMRO,0,1,0,0,,,,
@@ -15727,6 +15788,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,LI,Liechtenstein,EURO,0,85,0,1,,,,
 7/16/20,LI,Liechtenstein,EURO,0,85,0,1,,,,
 7/17/20,LI,Liechtenstein,EURO,0,85,0,1,,,,
+7/18/20,LI,Liechtenstein,EURO,1,86,0,1,,,,
 2/28/20,LT,Lithuania,EURO,1,1,0,0,,,,
 2/29/20,LT,Lithuania,EURO,0,1,0,0,,,,
 3/1/20,LT,Lithuania,EURO,0,1,0,0,,,,
@@ -15868,6 +15930,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,LT,Lithuania,EURO,1,1875,0,79,,,,
 7/16/20,LT,Lithuania,EURO,7,1882,0,79,,,,
 7/17/20,LT,Lithuania,EURO,20,1902,0,79,,,,
+7/18/20,LT,Lithuania,EURO,6,1908,0,79,,,,
 3/1/20,LU,Luxembourg,EURO,1,1,0,0,,,,
 3/2/20,LU,Luxembourg,EURO,0,1,0,0,,,,
 3/3/20,LU,Luxembourg,EURO,0,1,0,0,,,,
@@ -16007,6 +16070,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,LU,Luxembourg,EURO,100,5056,0,111,,,,
 7/16/20,LU,Luxembourg,EURO,0,5056,0,111,,,,
 7/17/20,LU,Luxembourg,EURO,66,5122,0,111,,,,
+7/18/20,LU,Luxembourg,EURO,163,5285,0,111,,,,
 3/21/20,MG,Madagascar,AFRO,3,3,0,0,,,,
 3/22/20,MG,Madagascar,AFRO,0,3,0,0,,,,
 3/23/20,MG,Madagascar,AFRO,9,12,0,0,,,,
@@ -16126,6 +16190,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MG,Madagascar,AFRO,263,5343,2,39,,,,
 7/16/20,MG,Madagascar,AFRO,262,5605,4,43,,,,
 7/17/20,MG,Madagascar,AFRO,484,6089,10,53,,,,
+7/18/20,MG,Madagascar,AFRO,378,6467,1,54,,,,
 4/3/20,MW,Malawi,AFRO,3,3,0,0,,,,
 4/4/20,MW,Malawi,AFRO,0,3,0,0,,,,
 4/5/20,MW,Malawi,AFRO,0,3,0,0,,,,
@@ -16232,6 +16297,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MW,Malawi,AFRO,67,2497,1,40,,,,
 7/16/20,MW,Malawi,AFRO,117,2614,3,43,,,,
 7/17/20,MW,Malawi,AFRO,102,2716,8,51,,,,
+7/18/20,MW,Malawi,AFRO,94,2810,4,55,,,,
 1/25/20,MY,Malaysia,WPRO,3,3,0,0,,,,
 1/26/20,MY,Malaysia,WPRO,1,4,0,0,,,,
 1/27/20,MY,Malaysia,WPRO,0,4,0,0,,,,
@@ -16656,6 +16722,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ML,Mali,AFRO,11,2423,0,121,,,,
 7/16/20,ML,Mali,AFRO,10,2433,0,121,,,,
 7/17/20,ML,Mali,AFRO,7,2440,0,121,,,,
+7/18/20,ML,Mali,AFRO,27,2467,0,121,,,,
 3/7/20,MT,Malta,EURO,3,3,0,0,,,,
 3/8/20,MT,Malta,EURO,0,3,0,0,,,,
 3/9/20,MT,Malta,EURO,0,3,0,0,,,,
@@ -16789,6 +16856,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MT,Malta,EURO,0,674,0,9,,,,
 7/16/20,MT,Malta,EURO,0,674,0,9,,,,
 7/17/20,MT,Malta,EURO,0,674,0,9,,,,
+7/18/20,MT,Malta,EURO,0,674,0,9,,,,
 3/7/20,MQ,Martinique,AMRO,2,2,0,0,,,,
 3/8/20,MQ,Martinique,AMRO,0,2,0,0,,,,
 3/9/20,MQ,Martinique,AMRO,0,2,0,0,,,,
@@ -17049,6 +17117,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MR,Mauritania,AFRO,91,5446,2,149,,,,
 7/16/20,MR,Mauritania,AFRO,72,5518,0,149,,,,
 7/17/20,MR,Mauritania,AFRO,46,5564,0,149,,,,
+7/18/20,MR,Mauritania,AFRO,95,5659,1,150,,,,
 3/18/20,MU,Mauritius,AFRO,3,3,0,0,,,,
 3/19/20,MU,Mauritius,AFRO,4,7,0,0,,,,
 3/20/20,MU,Mauritius,AFRO,5,12,0,0,,,,
@@ -17171,6 +17240,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MU,Mauritius,AFRO,0,343,0,10,,,,
 7/16/20,MU,Mauritius,AFRO,0,343,0,10,,,,
 7/17/20,MU,Mauritius,AFRO,0,343,0,10,,,,
+7/18/20,MU,Mauritius,AFRO,0,343,0,10,,,,
 3/14/20,YT,Mayotte,AFRO,1,1,0,0,,,,
 3/15/20,YT,Mayotte,AFRO,0,1,0,0,,,,
 3/16/20,YT,Mayotte,AFRO,0,1,0,0,,,,
@@ -17297,6 +17367,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,YT,Mayotte,AFRO,0,2724,0,37,,,,
 7/16/20,YT,Mayotte,AFRO,19,2743,0,37,,,,
 7/17/20,YT,Mayotte,AFRO,39,2782,0,37,,,,
+7/18/20,YT,Mayotte,AFRO,0,2782,0,37,,,,
 2/28/20,MX,Mexico,AMRO,2,2,0,0,,,-5374.817805,-1236.749205
 2/29/20,MX,Mexico,AMRO,0,2,0,0,,,-5374.699411,-1236.734849
 3/1/20,MX,Mexico,AMRO,0,2,0,0,,,-5373.870656,-1236.634353
@@ -17609,6 +17680,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MC,Monaco,EURO,0,99,0,1,,,,
 7/16/20,MC,Monaco,EURO,0,99,0,1,,,,
 7/17/20,MC,Monaco,EURO,0,99,0,1,,,,
+7/18/20,MC,Monaco,EURO,0,99,0,1,,,,
 3/10/20,MN,Mongolia,WPRO,1,1,0,0,,,,
 3/11/20,MN,Mongolia,WPRO,0,1,0,0,,,,
 3/12/20,MN,Mongolia,WPRO,0,1,0,0,,,,
@@ -17863,6 +17935,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ME,Montenegro,EURO,0,1287,0,24,,,,
 7/16/20,ME,Montenegro,EURO,142,1429,1,25,,,,
 7/17/20,ME,Montenegro,EURO,153,1582,1,26,,,,
+7/18/20,ME,Montenegro,EURO,36,1618,2,28,,,,
 3/18/20,MS,Montserrat,AMRO,1,1,0,0,,,,
 3/19/20,MS,Montserrat,AMRO,0,1,0,0,,,,
 3/20/20,MS,Montserrat,AMRO,0,1,0,0,,,,
@@ -18242,6 +18315,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MZ,Mozambique,AFRO,49,1268,0,9,,,,
 7/16/20,MZ,Mozambique,AFRO,62,1330,0,9,,,,
 7/17/20,MZ,Mozambique,AFRO,53,1383,0,9,,,,
+7/18/20,MZ,Mozambique,AFRO,19,1402,0,9,,,,
 3/24/20,MM,Myanmar,SEARO,2,2,0,0,,,,
 3/25/20,MM,Myanmar,SEARO,1,3,0,0,,,,
 3/26/20,MM,Myanmar,SEARO,0,3,0,0,,,,
@@ -18485,6 +18559,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,NA,Namibia,AFRO,3,864,1,2,,,,
 7/16/20,NA,Namibia,AFRO,96,960,0,2,,,,
 7/17/20,NA,Namibia,AFRO,72,1032,0,2,,,,
+7/18/20,NA,Namibia,AFRO,46,1078,0,2,,,,
 1/23/20,NP,Nepal,SEARO,1,1,0,0,,,,
 1/24/20,NP,Nepal,SEARO,0,1,0,0,,,,
 1/25/20,NP,Nepal,SEARO,0,1,0,0,,,,
@@ -18805,6 +18880,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,NL,Netherlands,EURO,53,51091,0,6127,,,,
 7/16/20,NL,Netherlands,EURO,106,51197,0,6127,,,,
 7/17/20,NL,Netherlands,EURO,99,51296,1,6128,,,,
+7/18/20,NL,Netherlands,EURO,103,51399,1,6129,,,,
 3/19/20,NC,New Caledonia,WPRO,2,2,0,0,,,,
 3/20/20,NC,New Caledonia,WPRO,0,2,0,0,,,,
 3/21/20,NC,New Caledonia,WPRO,2,4,0,0,,,,
@@ -19312,6 +19388,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,NE,Niger,AFRO,0,1099,0,68,,,,
 7/16/20,NE,Niger,AFRO,0,1099,0,68,,,,
 7/17/20,NE,Niger,AFRO,3,1102,1,69,,,,
+7/18/20,NE,Niger,AFRO,0,1102,0,69,,,,
 2/28/20,NG,Nigeria,AFRO,1,1,0,0,,,,
 2/29/20,NG,Nigeria,AFRO,0,1,0,0,,,,
 3/1/20,NG,Nigeria,AFRO,0,1,0,0,,,,
@@ -19453,6 +19530,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,NG,Nigeria,AFRO,463,33616,10,754,,,,
 7/16/20,NG,Nigeria,AFRO,643,34259,6,760,,,,
 7/17/20,NG,Nigeria,AFRO,595,34854,9,769,,,,
+7/18/20,NG,Nigeria,AFRO,600,35454,3,772,,,,
 2/26/20,MK,North Macedonia,EURO,1,1,0,0,,,,
 2/27/20,MK,North Macedonia,EURO,0,1,0,0,,,,
 2/28/20,MK,North Macedonia,EURO,0,1,0,0,,,,
@@ -19596,6 +19674,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MK,North Macedonia,EURO,134,8331,4,389,,,,
 7/16/20,MK,North Macedonia,EURO,191,8522,4,393,,,,
 7/17/20,MK,North Macedonia,EURO,90,8612,8,401,,,,
+7/18/20,MK,North Macedonia,EURO,174,8786,5,406,,,,
 3/29/20,MP,Northern Mariana Islands (Commonwealth of the),WPRO,2,2,0,0,,,,
 3/30/20,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,2,0,0,,,,
 3/31/20,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,2,0,0,,,,
@@ -19851,6 +19930,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,NO,Norway,EURO,3,8984,0,253,,,,
 7/16/20,NO,Norway,EURO,17,9001,0,253,,,,
 7/17/20,NO,Norway,EURO,10,9011,1,254,,,,
+7/18/20,NO,Norway,EURO,4,9015,1,255,,,,
 3/5/20,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,7,7,0,0,,,,
 3/6/20,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,9,16,0,0,,,,
 3/7/20,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,0,16,0,0,,,,
@@ -21297,6 +21377,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,PL,Poland,EURO,267,38457,12,1588,,,,
 7/16/20,PL,Poland,EURO,323,38780,6,1594,,,,
 7/17/20,PL,Poland,EURO,274,39054,11,1605,,,,
+7/18/20,PL,Poland,EURO,353,39407,7,1612,,,,
 3/2/20,PT,Portugal,EURO,2,2,0,0,,,,
 3/3/20,PT,Portugal,EURO,0,2,0,0,,,,
 3/4/20,PT,Portugal,EURO,4,6,0,0,,,,
@@ -21435,6 +21516,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,PT,Portugal,EURO,233,47051,6,1668,,,,
 7/16/20,PT,Portugal,EURO,375,47426,8,1676,,,,
 7/17/20,PT,Portugal,EURO,339,47765,3,1679,,,,
+7/18/20,PT,Portugal,EURO,312,48077,3,1682,,,,
 3/14/20,PR,Puerto Rico,AMRO,3,3,0,0,,,,
 3/15/20,PR,Puerto Rico,AMRO,0,3,0,0,,,,
 3/16/20,PR,Puerto Rico,AMRO,0,3,0,0,,,,
@@ -22018,6 +22100,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,MD,Republic of Moldova,EURO,269,19708,6,658,,,,
 7/16/20,MD,Republic of Moldova,EURO,332,20040,4,662,,,,
 7/17/20,MD,Republic of Moldova,EURO,224,20264,4,666,,,,
+7/18/20,MD,Republic of Moldova,EURO,230,20494,9,675,,,,
 3/13/20,RE,Réunion,AFRO,3,3,0,0,,,,
 3/14/20,RE,Réunion,AFRO,3,6,0,0,,,,
 3/15/20,RE,Réunion,AFRO,3,9,0,0,,,,
@@ -22145,6 +22228,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,RE,Réunion,AFRO,3,599,0,3,,,,
 7/16/20,RE,Réunion,AFRO,9,608,0,3,,,,
 7/17/20,RE,Réunion,AFRO,6,614,0,3,,,,
+7/18/20,RE,Réunion,AFRO,10,624,0,3,,,,
 2/26/20,RO,Romania,EURO,1,1,0,0,,,,
 2/27/20,RO,Romania,EURO,0,1,0,0,,,,
 2/28/20,RO,Romania,EURO,2,3,0,0,,,,
@@ -22288,6 +22372,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,RO,Romania,EURO,637,33585,30,1931,,,,
 7/16/20,RO,Romania,EURO,641,34226,21,1952,,,,
 7/17/20,RO,Romania,EURO,777,35003,19,1971,,,,
+7/18/20,RO,Romania,EURO,799,35802,17,1988,,,,
 1/31/20,RU,Russian Federation,EURO,2,2,0,0,,,-7849.533683,-347.200687
 2/1/20,RU,Russian Federation,EURO,0,2,0,0,,,-7849.333871,-347.197955
 2/2/20,RU,Russian Federation,EURO,0,2,0,0,,,-7847.935183,-347.1788313
@@ -22612,6 +22697,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,RW,Rwanda,AFRO,38,1416,0,4,,,,
 7/16/20,RW,Rwanda,AFRO,19,1435,0,4,,,,
 7/17/20,RW,Rwanda,AFRO,38,1473,0,4,,,,
+7/18/20,RW,Rwanda,AFRO,12,1485,0,4,,,,
 3/2/20,BL,Saint Barthélemy,AMRO,1,1,0,0,,,,
 3/3/20,BL,Saint Barthélemy,AMRO,0,1,0,0,,,,
 3/4/20,BL,Saint Barthélemy,AMRO,0,1,0,0,,,,
@@ -23502,6 +23588,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SM,San Marino,EURO,0,716,0,42,,,,
 7/16/20,SM,San Marino,EURO,0,716,0,42,,,,
 7/17/20,SM,San Marino,EURO,0,716,0,42,,,,
+7/18/20,SM,San Marino,EURO,0,716,0,42,,,,
 4/6/20,ST,Sao Tome and Principe,AFRO,4,4,0,0,,,,
 4/7/20,ST,Sao Tome and Principe,AFRO,0,4,0,0,,,,
 4/8/20,ST,Sao Tome and Principe,AFRO,0,4,0,0,,,,
@@ -23605,6 +23692,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ST,Sao Tome and Principe,AFRO,4,416,0,12,,,,
 7/16/20,ST,Sao Tome and Principe,AFRO,1,417,0,12,,,,
 7/17/20,ST,Sao Tome and Principe,AFRO,323,740,2,14,,,,
+7/18/20,ST,Sao Tome and Principe,AFRO,1,741,0,14,,,,
 3/2/20,SA,Saudi Arabia,EMRO,1,1,0,0,,,,
 3/3/20,SA,Saudi Arabia,EMRO,0,1,0,0,,,,
 3/4/20,SA,Saudi Arabia,EMRO,1,2,0,0,,,,
@@ -23882,6 +23970,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SN,Senegal,AFRO,45,8243,0,150,,,,
 7/16/20,SN,Senegal,AFRO,126,8369,3,153,,,,
 7/17/20,SN,Senegal,AFRO,112,8481,3,156,,,,
+7/18/20,SN,Senegal,AFRO,63,8544,4,160,,,,
 3/6/20,RS,Serbia,EURO,1,1,0,0,,,,
 3/7/20,RS,Serbia,EURO,0,1,0,0,,,,
 3/8/20,RS,Serbia,EURO,0,1,0,0,,,,
@@ -24016,6 +24105,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,RS,Serbia,EURO,344,18983,13,418,,,,
 7/16/20,RS,Serbia,EURO,351,19334,11,429,,,,
 7/17/20,RS,Serbia,EURO,383,19717,13,442,,,,
+7/18/20,RS,Serbia,EURO,392,20109,10,452,,,,
 3/15/20,SC,Seychelles,AFRO,2,2,0,0,,,,
 3/16/20,SC,Seychelles,AFRO,2,4,0,0,,,,
 3/17/20,SC,Seychelles,AFRO,0,4,0,0,,,,
@@ -24141,6 +24231,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SC,Seychelles,AFRO,0,100,0,0,,,,
 7/16/20,SC,Seychelles,AFRO,8,108,0,0,,,,
 7/17/20,SC,Seychelles,AFRO,0,108,0,0,,,,
+7/18/20,SC,Seychelles,AFRO,0,108,0,0,,,,
 4/1/20,SL,Sierra Leone,AFRO,1,1,0,0,,,,
 4/2/20,SL,Sierra Leone,AFRO,1,2,0,0,,,,
 4/3/20,SL,Sierra Leone,AFRO,0,2,0,0,,,,
@@ -24249,6 +24340,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SL,Sierra Leone,AFRO,9,1651,1,64,,,,
 7/16/20,SL,Sierra Leone,AFRO,17,1668,0,64,,,,
 7/17/20,SL,Sierra Leone,AFRO,10,1678,0,64,,,,
+7/18/20,SL,Sierra Leone,AFRO,10,1688,1,65,,,,
 1/23/20,SG,Singapore,WPRO,1,1,0,0,,,,
 1/24/20,SG,Singapore,WPRO,2,3,0,0,,,,
 1/25/20,SG,Singapore,WPRO,0,3,0,0,,,,
@@ -24684,6 +24776,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SK,Slovakia,EURO,6,1908,0,28,,,,
 7/16/20,SK,Slovakia,EURO,19,1927,0,28,,,,
 7/17/20,SK,Slovakia,EURO,24,1951,0,28,,,,
+7/18/20,SK,Slovakia,EURO,14,1965,0,28,,,,
 3/4/20,SI,Slovenia,EURO,1,1,0,0,,,,
 3/5/20,SI,Slovenia,EURO,4,5,0,0,,,,
 3/6/20,SI,Slovenia,EURO,4,9,0,0,,,,
@@ -24820,6 +24913,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SI,Slovenia,EURO,10,1859,0,111,,,,
 7/16/20,SI,Slovenia,EURO,19,1878,0,111,,,,
 7/17/20,SI,Slovenia,EURO,19,1897,0,111,,,,
+7/18/20,SI,Slovenia,EURO,19,1916,0,111,,,,
 3/16/20,SO,Somalia,EMRO,1,1,0,0,,,,
 3/17/20,SO,Somalia,EMRO,0,1,0,0,,,,
 3/18/20,SO,Somalia,EMRO,0,1,0,0,,,,
@@ -25213,6 +25307,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SS,South Sudan,AFRO,5,2153,0,41,,,,
 7/16/20,SS,South Sudan,AFRO,18,2171,0,41,,,,
 7/17/20,SS,South Sudan,AFRO,20,2191,2,43,,,,
+7/18/20,SS,South Sudan,AFRO,0,2191,0,43,,,,
 2/2/20,ES,Spain,EURO,1,1,0,0,,,,
 2/3/20,ES,Spain,EURO,0,1,0,0,,,,
 2/4/20,ES,Spain,EURO,0,1,0,0,,,,
@@ -25380,6 +25475,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ES,Spain,EURO,666,256619,3,28409,,,,
 7/16/20,ES,Spain,EURO,875,257494,4,28413,,,,
 7/17/20,ES,Spain,EURO,1361,258855,3,28416,,,,
+7/18/20,ES,Spain,EURO,1400,260255,4,28420,,,,
 1/27/20,LK,Sri Lanka,SEARO,1,1,0,0,,,,
 1/28/20,LK,Sri Lanka,SEARO,0,1,0,0,,,,
 1/29/20,LK,Sri Lanka,SEARO,0,1,0,0,,,,
@@ -25976,6 +26072,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,SE,Sweden,EURO,175,76001,9,5545,,,,
 7/16/20,SE,Sweden,EURO,491,76492,27,5572,,,,
 7/17/20,SE,Sweden,EURO,385,76877,21,5593,,,,
+7/18/20,SE,Sweden,EURO,404,77281,26,5619,,,,
 2/24/20,CH,Switzerland,EURO,1,1,0,0,,,,
 2/25/20,CH,Switzerland,EURO,2,3,0,0,,,,
 2/26/20,CH,Switzerland,EURO,6,9,0,0,,,,
@@ -26121,6 +26218,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,CH,Switzerland,EURO,70,32931,2,1687,,,,
 7/16/20,CH,Switzerland,EURO,132,33063,0,1687,,,,
 7/17/20,CH,Switzerland,EURO,142,33205,0,1687,,,,
+7/18/20,CH,Switzerland,EURO,91,33296,0,1687,,,,
 3/23/20,SY,Syrian Arab Republic,EMRO,1,1,0,0,,,,
 3/24/20,SY,Syrian Arab Republic,EMRO,0,1,0,0,,,,
 3/25/20,SY,Syrian Arab Republic,EMRO,0,1,0,0,,,,
@@ -26317,6 +26415,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,TJ,Tajikistan,EURO,48,6643,1,56,,,,
 7/16/20,TJ,Tajikistan,EURO,52,6695,0,56,,,,
 7/17/20,TJ,Tajikistan,EURO,46,6741,0,56,,,,
+7/18/20,TJ,Tajikistan,EURO,45,6786,0,56,,,,
 1/13/20,TH,Thailand,SEARO,1,1,0,0,,,,
 1/14/20,TH,Thailand,SEARO,0,1,0,0,,,,
 1/15/20,TH,Thailand,SEARO,0,1,0,0,,,,
@@ -26505,340 +26604,340 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/16/20,TH,Thailand,SEARO,4,3236,0,58,,,,
 7/17/20,TH,Thailand,SEARO,3,3239,0,58,,,,
 7/18/20,TH,Thailand,SEARO,7,3246,0,58,,,,
-1/31/20,GB,The United Kingdom,EURO,2,2,0,0,,,,
-2/1/20,GB,The United Kingdom,EURO,0,2,0,0,,,,
-2/2/20,GB,The United Kingdom,EURO,0,2,0,0,,,,
-2/3/20,GB,The United Kingdom,EURO,0,2,0,0,,,,
-2/4/20,GB,The United Kingdom,EURO,0,2,0,0,,,,
-2/5/20,GB,The United Kingdom,EURO,0,2,0,0,,,,
-2/6/20,GB,The United Kingdom,EURO,0,2,0,0,,,,
-2/7/20,GB,The United Kingdom,EURO,1,3,0,0,,,,
-2/8/20,GB,The United Kingdom,EURO,0,3,0,0,,,,
-2/9/20,GB,The United Kingdom,EURO,1,4,0,0,,,,
-2/10/20,GB,The United Kingdom,EURO,0,4,0,0,,,,
-2/11/20,GB,The United Kingdom,EURO,4,8,0,0,,,,
-2/12/20,GB,The United Kingdom,EURO,0,8,0,0,,,,
-2/13/20,GB,The United Kingdom,EURO,1,9,0,0,,,,
-2/14/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/15/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/16/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/17/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/18/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/19/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/20/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/21/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/22/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/23/20,GB,The United Kingdom,EURO,0,9,0,0,,,,
-2/24/20,GB,The United Kingdom,EURO,4,13,0,0,,,,
-2/25/20,GB,The United Kingdom,EURO,0,13,0,0,,,,
-2/26/20,GB,The United Kingdom,EURO,0,13,0,0,,,,
-2/27/20,GB,The United Kingdom,EURO,0,13,0,0,,,,
-2/28/20,GB,The United Kingdom,EURO,3,16,0,0,,,,
-2/29/20,GB,The United Kingdom,EURO,2,18,0,0,,,,
-3/1/20,GB,The United Kingdom,EURO,5,23,0,0,,,,
-3/2/20,GB,The United Kingdom,EURO,13,36,0,0,,,,
-3/3/20,GB,The United Kingdom,EURO,4,40,0,0,,,,
-3/4/20,GB,The United Kingdom,EURO,11,51,0,0,,,,
-3/5/20,GB,The United Kingdom,EURO,34,85,0,0,,,,
-3/6/20,GB,The United Kingdom,EURO,30,115,0,0,,,,
-3/7/20,GB,The United Kingdom,EURO,48,163,1,1,,,,
-3/8/20,GB,The United Kingdom,EURO,43,206,1,2,,,,
-3/9/20,GB,The United Kingdom,EURO,67,273,0,2,,,,
-3/10/20,GB,The United Kingdom,EURO,48,321,1,3,,,,
-3/11/20,GB,The United Kingdom,EURO,52,373,4,7,,,,
-3/12/20,GB,The United Kingdom,EURO,83,456,0,7,,,,
-3/13/20,GB,The United Kingdom,EURO,134,590,2,9,,,,
-3/14/20,GB,The United Kingdom,EURO,117,707,1,10,,,,
-3/15/20,GB,The United Kingdom,EURO,433,1140,18,28,,,,
-3/16/20,GB,The United Kingdom,EURO,251,1391,15,43,,,,
-3/17/20,GB,The United Kingdom,EURO,152,1543,22,65,,,,
-3/18/20,GB,The United Kingdom,EURO,407,1950,16,81,,,,
-3/19/20,GB,The United Kingdom,EURO,680,2630,34,115,,,,
-3/20/20,GB,The United Kingdom,EURO,647,3277,43,158,,,,
-3/21/20,GB,The United Kingdom,EURO,706,3983,36,194,,,,
-3/22/20,GB,The United Kingdom,EURO,1035,5018,56,250,,,,
-3/23/20,GB,The United Kingdom,EURO,669,5687,35,285,,,,
-3/24/20,GB,The United Kingdom,EURO,967,6654,74,359,,,,
-3/25/20,GB,The United Kingdom,EURO,1427,8081,149,508,,,,
-3/26/20,GB,The United Kingdom,EURO,1452,9533,186,694,,,,
-3/27/20,GB,The United Kingdom,EURO,2129,11662,183,877,,,,
-3/28/20,GB,The United Kingdom,EURO,2885,14547,284,1161,,,,
-3/29/20,GB,The United Kingdom,EURO,2546,17093,294,1455,,,,
-3/30/20,GB,The United Kingdom,EURO,2433,19526,214,1669,,,,
-3/31/20,GB,The United Kingdom,EURO,2619,22145,374,2043,,,,
-4/1/20,GB,The United Kingdom,EURO,3009,25154,382,2425,,,,
-4/2/20,GB,The United Kingdom,EURO,4324,29478,670,3095,,,,
-4/3/20,GB,The United Kingdom,EURO,4244,33722,652,3747,,,,
-4/4/20,GB,The United Kingdom,EURO,4450,38172,714,4461,,,,
-4/5/20,GB,The United Kingdom,EURO,3735,41907,760,5221,,,,
-4/6/20,GB,The United Kingdom,EURO,5903,47810,644,5865,,,,
-4/7/20,GB,The United Kingdom,EURO,3802,51612,568,6433,,,,
-4/8/20,GB,The United Kingdom,EURO,3634,55246,1038,7471,,,,
-4/9/20,GB,The United Kingdom,EURO,5491,60737,1034,8505,,,,
-4/10/20,GB,The United Kingdom,EURO,4344,65081,1103,9608,,,,
-4/11/20,GB,The United Kingdom,EURO,5195,70276,1152,10760,,,,
-4/12/20,GB,The United Kingdom,EURO,8719,78995,839,11599,,,,
-4/13/20,GB,The United Kingdom,EURO,5288,84283,686,12285,,,,
-4/14/20,GB,The United Kingdom,EURO,4342,88625,744,13029,,,,
-4/15/20,GB,The United Kingdom,EURO,5252,93877,1044,14073,,,,
-4/16/20,GB,The United Kingdom,EURO,4603,98480,842,14915,,,,
-4/17/20,GB,The United Kingdom,EURO,4617,103097,1029,15944,,,,
-4/18/20,GB,The United Kingdom,EURO,5599,108696,935,16879,,,,
-4/19/20,GB,The United Kingdom,EURO,5525,114221,1115,17994,,,,
-4/20/20,GB,The United Kingdom,EURO,5850,120071,498,18492,,,,
-4/21/20,GB,The United Kingdom,EURO,4676,124747,559,19051,,,,
-4/22/20,GB,The United Kingdom,EURO,4301,129048,1172,20223,,,,
-4/23/20,GB,The United Kingdom,EURO,4451,133499,837,21060,,,,
-4/24/20,GB,The United Kingdom,EURO,4583,138082,727,21787,,,,
-4/25/20,GB,The United Kingdom,EURO,5386,143468,1005,22792,,,,
-4/26/20,GB,The United Kingdom,EURO,4913,148381,843,23635,,,,
-4/27/20,GB,The United Kingdom,EURO,4463,152844,420,24055,,,,
-4/28/20,GB,The United Kingdom,EURO,4309,157153,338,24393,,,,
-4/29/20,GB,The United Kingdom,EURO,3996,161149,909,25302,,,,
-4/30/20,GB,The United Kingdom,EURO,4076,165225,795,26097,,,,
-5/1/20,GB,The United Kingdom,EURO,6032,171257,674,26771,,,,
-5/2/20,GB,The United Kingdom,EURO,6201,177458,739,27510,,,,
-5/3/20,GB,The United Kingdom,EURO,4806,182264,621,28131,,,,
-5/4/20,GB,The United Kingdom,EURO,4339,186603,315,28446,,,,
-5/5/20,GB,The United Kingdom,EURO,3985,190588,288,28734,,,,
-5/6/20,GB,The United Kingdom,EURO,4406,194994,693,29427,,,,
-5/7/20,GB,The United Kingdom,EURO,6211,201205,649,30076,,,,
-5/8/20,GB,The United Kingdom,EURO,5514,206719,539,30615,,,,
-5/9/20,GB,The United Kingdom,EURO,4649,211368,626,31241,,,,
-5/10/20,GB,The United Kingdom,EURO,3896,215264,346,31587,,,,
-5/11/20,GB,The United Kingdom,EURO,3923,219187,268,31855,,,,
-5/12/20,GB,The United Kingdom,EURO,3877,223064,210,32065,,,,
-5/13/20,GB,The United Kingdom,EURO,3403,226467,627,32692,,,,
-5/14/20,GB,The United Kingdom,EURO,3242,229709,494,33186,,,,
-5/15/20,GB,The United Kingdom,EURO,3446,233155,428,33614,,,,
-5/16/20,GB,The United Kingdom,EURO,3560,236715,384,33998,,,,
-5/17/20,GB,The United Kingdom,EURO,3450,240165,468,34466,,,,
-5/18/20,GB,The United Kingdom,EURO,3534,243699,170,34636,,,,
-5/19/20,GB,The United Kingdom,EURO,2711,246410,160,34796,,,,
-5/20/20,GB,The United Kingdom,EURO,2412,248822,545,35341,,,,
-5/21/20,GB,The United Kingdom,EURO,-525,248297,363,35704,,,,
-5/22/20,GB,The United Kingdom,EURO,2615,250912,338,36042,,,,
-5/23/20,GB,The United Kingdom,EURO,3287,254199,351,36393,,,,
-5/24/20,GB,The United Kingdom,EURO,2959,257158,282,36675,,,,
-5/25/20,GB,The United Kingdom,EURO,2405,259563,118,36793,,,,
-5/26/20,GB,The United Kingdom,EURO,1625,261188,121,36914,,,,
-5/27/20,GB,The United Kingdom,EURO,4043,265231,134,37048,,,,
-5/28/20,GB,The United Kingdom,EURO,2013,267244,412,37460,,,,
-5/29/20,GB,The United Kingdom,EURO,1887,269131,377,37837,,,,
-5/30/20,GB,The United Kingdom,EURO,2095,271226,324,38161,,,,
-5/31/20,GB,The United Kingdom,EURO,1604,272830,215,38376,,,,
-6/1/20,GB,The United Kingdom,EURO,1936,274766,113,38489,,,,
-6/2/20,GB,The United Kingdom,EURO,1570,276336,556,39045,,,,
-6/3/20,GB,The United Kingdom,EURO,1653,277989,324,39369,,,,
-6/4/20,GB,The United Kingdom,EURO,1871,279860,359,39728,,,,
-6/5/20,GB,The United Kingdom,EURO,1805,281665,176,39904,,,,
-6/6/20,GB,The United Kingdom,EURO,1650,283315,357,40261,,,,
-6/7/20,GB,The United Kingdom,EURO,1557,284872,204,40465,,,,
-6/8/20,GB,The United Kingdom,EURO,1326,286198,77,40542,,,,
-6/9/20,GB,The United Kingdom,EURO,1205,287403,55,40597,,,,
-6/10/20,GB,The United Kingdom,EURO,1741,289144,286,40883,,,,
-6/11/20,GB,The United Kingdom,EURO,1003,290147,245,41128,,,,
-6/12/20,GB,The United Kingdom,EURO,1266,291413,151,41279,,,,
-6/13/20,GB,The United Kingdom,EURO,1541,292954,202,41481,,,,
-6/14/20,GB,The United Kingdom,EURO,1425,294379,181,41662,,,6009.338858,2379.217736
-6/15/20,GB,The United Kingdom,EURO,1514,295893,36,41698,,,6009.43733,2379.231219
-6/16/20,GB,The United Kingdom,EURO,968,296861,38,41736,,,6010.126635,2379.325602
-6/17/20,GB,The United Kingdom,EURO,1279,298140,233,41969,,,6011.997606,2379.581782
-6/18/20,GB,The United Kingdom,EURO,1115,299255,184,42153,,,6015.641076,2380.08066
-6/19/20,GB,The United Kingdom,EURO,1218,300473,135,42288,,,6021.647877,2380.903135
-6/20/20,GB,The United Kingdom,EURO,1346,301819,173,42461,,,6030.608844,2382.130105
-6/21/20,GB,The United Kingdom,EURO,1295,303114,128,42589,,,6043.114807,2383.84247
-6/22/20,GB,The United Kingdom,EURO,1221,304335,43,42632,,,6059.756602,2386.121128
-6/23/20,GB,The United Kingdom,EURO,958,305293,15,42647,,,6081.12506,2389.04698
-6/24/20,GB,The United Kingdom,EURO,921,306214,280,42927,,,6107.811014,2392.700924
-6/25/20,GB,The United Kingdom,EURO,652,306866,154,43081,,,6140.405297,2397.163859
-6/26/20,GB,The United Kingdom,EURO,1118,307984,149,43230,,,6179.498743,2402.516685
-6/27/20,GB,The United Kingdom,EURO,1380,309364,184,43414,,,6225.682185,2408.8403
-6/28/20,GB,The United Kingdom,EURO,890,310254,100,43514,,,6279.546454,2416.215604
-6/29/20,GB,The United Kingdom,EURO,901,311155,36,43550,,,6341.682384,2424.723496
-6/30/20,GB,The United Kingdom,EURO,814,311969,25,43575,,,6412.680809,2434.444874
-7/1/20,GB,The United Kingdom,EURO,689,312658,155,43730,,,6493.13256,2445.460639
-7/2/20,GB,The United Kingdom,EURO,829,313487,176,43906,,,6583.628472,2457.851688
-7/3/20,GB,The United Kingdom,EURO,-29726,283761,89,43995,,,6684.759376,2471.698922
-7/4/20,GB,The United Kingdom,EURO,519,284280,136,44131,,,6797.116106,2487.08324
-7/5/20,GB,The United Kingdom,EURO,624,284904,67,44198,,,6921.289494,2504.08554
-7/6/20,GB,The United Kingdom,EURO,516,285420,22,44220,,,7057.870375,2522.786722
-7/7/20,GB,The United Kingdom,EURO,352,285772,16,44236,,,7207.44958,2543.267684
-7/8/20,GB,The United Kingdom,EURO,581,286353,155,44391,,,7370.617942,2565.609327
-7/9/20,GB,The United Kingdom,EURO,630,286983,126,44517,,,7547.966295,2589.892548
-7/10/20,GB,The United Kingdom,EURO,642,287625,85,44602,,,7740.085471,2616.198248
-7/11/20,GB,The United Kingdom,EURO,512,288137,48,44650,,,7947.566304,2644.607325
-7/12/20,GB,The United Kingdom,EURO,820,288957,148,44798,,,8170.999626,2675.200678
-7/13/20,GB,The United Kingdom,EURO,650,289607,21,44819,,,8410.97627,2708.059207
-7/14/20,GB,The United Kingdom,EURO,530,290137,11,44830,,,8668.087069,2743.263811
-7/15/20,GB,The United Kingdom,EURO,1240,291377,138,44968,,,8942.922857,2780.895389
-7/16/20,GB,The United Kingdom,EURO,538,291915,85,45053,,,9236.074465,2821.034839
-7/17/20,GB,The United Kingdom,EURO,641,292556,66,45119,,,9548.132727,2863.763062
-7/18/20,GB,The United Kingdom,EURO,,,,,,,9879.688476,2909.160956
-7/19/20,GB,The United Kingdom,EURO,,,,,,,10231.33255,2957.30942
-7/20/20,GB,The United Kingdom,EURO,,,,,,,10603.65577,3008.289354
-7/21/20,GB,The United Kingdom,EURO,,,,,,,10997.24897,3062.181656
-7/22/20,GB,The United Kingdom,EURO,,,,,,,11412.703,3119.067226
-7/23/20,GB,The United Kingdom,EURO,,,,,,,11850.60868,3179.026963
-7/24/20,GB,The United Kingdom,EURO,,,,,,,12311.55684,3242.141766
-7/25/20,GB,The United Kingdom,EURO,,,,,,,12796.13832,3308.492534
-7/26/20,GB,The United Kingdom,EURO,,,,,,,13304.94395,3378.160166
-7/27/20,GB,The United Kingdom,EURO,,,,,,,13838.56456,3451.225562
-7/28/20,GB,The United Kingdom,EURO,,,,,,,14397.59099,3527.76962
-7/29/20,GB,The United Kingdom,EURO,,,,,,,14982.61407,3607.873239
-7/30/20,GB,The United Kingdom,EURO,,,,,,,15594.22463,3691.61732
-7/31/20,GB,The United Kingdom,EURO,,,,,,,16233.01351,3779.08276
-8/1/20,GB,The United Kingdom,EURO,,,,,,,16899.57153,3870.35046
-8/2/20,GB,The United Kingdom,EURO,,,,,,,17594.48954,3965.501317
-8/3/20,GB,The United Kingdom,EURO,,,,,,,18318.35835,4064.616232
-8/4/20,GB,The United Kingdom,EURO,,,,,,,19071.76882,4167.776103
-8/5/20,GB,The United Kingdom,EURO,,,,,,,19855.31177,4275.06183
-8/6/20,GB,The United Kingdom,EURO,,,,,,,20669.57802,4386.554311
-8/7/20,GB,The United Kingdom,EURO,,,,,,,21515.15843,4502.334446
-8/8/20,GB,The United Kingdom,EURO,,,,,,,22392.64381,4622.483134
-8/9/20,GB,The United Kingdom,EURO,,,,,,,23302.625,4747.081274
-8/10/20,GB,The United Kingdom,EURO,,,,,,,24245.69284,4876.209765
-8/11/20,GB,The United Kingdom,EURO,,,,,,,25222.43815,5009.949506
-8/12/20,GB,The United Kingdom,EURO,,,,,,,26233.45178,5148.381397
-8/13/20,GB,The United Kingdom,EURO,,,,,,,27279.32455,5291.586337
-8/14/20,GB,The United Kingdom,EURO,,,,,,,28360.64729,5439.645224
-8/15/20,GB,The United Kingdom,EURO,,,,,,,29478.01085,5592.638957
-8/16/20,GB,The United Kingdom,EURO,,,,,,,30632.00604,5750.648437
-3/20/20,TL,Timor-Leste,SEARO,1,1,0,0,,,31823.22371,5913.754562
-3/21/20,TL,Timor-Leste,SEARO,0,1,0,0,,,33052.25469,6082.038231
-3/22/20,TL,Timor-Leste,SEARO,0,1,0,0,,,34319.68981,6255.580343
-3/23/20,TL,Timor-Leste,SEARO,0,1,0,0,,,35626.11991,6434.461798
-3/24/20,TL,Timor-Leste,SEARO,0,1,0,0,,,36972.13581,6618.763494
-3/25/20,TL,Timor-Leste,SEARO,0,1,0,0,,,38358.32835,6808.566331
-3/26/20,TL,Timor-Leste,SEARO,0,1,0,0,,,39785.28836,7003.951208
-3/27/20,TL,Timor-Leste,SEARO,0,1,0,0,,,41253.60668,7204.999024
-3/28/20,TL,Timor-Leste,SEARO,0,1,0,0,,,42763.87413,7411.790678
-3/29/20,TL,Timor-Leste,SEARO,0,1,0,0,,,44316.68156,7624.407069
-3/30/20,TL,Timor-Leste,SEARO,0,1,0,0,,,45912.61979,7842.929096
-3/31/20,TL,Timor-Leste,SEARO,0,1,0,0,,,47552.27966,8067.437659
-4/1/20,TL,Timor-Leste,SEARO,0,1,0,0,,,49236.252,8298.013656
-4/2/20,TL,Timor-Leste,SEARO,0,1,0,0,,,50965.12764,8534.737987
-4/3/20,TL,Timor-Leste,SEARO,0,1,0,0,,,52739.49742,8777.691551
-4/4/20,TL,Timor-Leste,SEARO,0,1,0,0,,,54559.95217,9026.955247
-4/5/20,TL,Timor-Leste,SEARO,0,1,0,0,,,56427.08272,9282.609974
-4/6/20,TL,Timor-Leste,SEARO,0,1,0,0,,,58341.4799,9544.736631
-4/7/20,TL,Timor-Leste,SEARO,0,1,0,0,,,60303.73455,9813.416118
-4/8/20,TL,Timor-Leste,SEARO,0,1,0,0,,,62314.43751,10088.72933
-4/9/20,TL,Timor-Leste,SEARO,0,1,0,0,,,64374.17959,10370.75718
-4/10/20,TL,Timor-Leste,SEARO,0,1,0,0,,,66483.55165,10659.58054
-4/11/20,TL,Timor-Leste,SEARO,1,2,0,0,,,68643.1445,10955.28034
-4/12/20,TL,Timor-Leste,SEARO,0,2,0,0,,,70853.54898,11257.93746
-4/13/20,TL,Timor-Leste,SEARO,2,4,0,0,,,73115.35594,11567.6328
-4/14/20,TL,Timor-Leste,SEARO,2,6,0,0,,,75429.15618,11884.44727
-4/15/20,TL,Timor-Leste,SEARO,0,6,0,0,,,77795.54056,12208.46176
-4/16/20,TL,Timor-Leste,SEARO,12,18,0,0,,,80215.09991,12539.75717
-4/17/20,TL,Timor-Leste,SEARO,0,18,0,0,,,82688.42505,12878.41441
-4/18/20,TL,Timor-Leste,SEARO,0,18,0,0,,,85216.10682,13224.51436
-4/19/20,TL,Timor-Leste,SEARO,1,19,0,0,,,87798.73606,13578.13793
-4/20/20,TL,Timor-Leste,SEARO,3,22,0,0,,,90436.90359,13939.36602
-4/21/20,TL,Timor-Leste,SEARO,1,23,0,0,,,93131.20025,14308.27952
-4/22/20,TL,Timor-Leste,SEARO,0,23,0,0,,,95882.21687,14684.95935
-4/23/20,TL,Timor-Leste,SEARO,0,23,0,0,,,98690.54429,15069.48638
-4/24/20,TL,Timor-Leste,SEARO,1,24,0,0,,,101556.7733,15461.94153
-4/25/20,TL,Timor-Leste,SEARO,0,24,0,0,,,104481.4948,15862.4057
-4/26/20,TL,Timor-Leste,SEARO,0,24,0,0,,,107465.2996,16270.95978
-4/27/20,TL,Timor-Leste,SEARO,0,24,0,0,,,110508.7786,16687.68467
-4/28/20,TL,Timor-Leste,SEARO,0,24,0,0,,,113612.5224,17112.66127
-4/29/20,TL,Timor-Leste,SEARO,0,24,0,0,,,116777.1221,17545.97048
-4/30/20,TL,Timor-Leste,SEARO,0,24,0,0,,,120003.1684,17987.6932
-5/1/20,TL,Timor-Leste,SEARO,0,24,0,0,,,123291.2522,18437.91033
-5/2/20,TL,Timor-Leste,SEARO,0,24,0,0,,,126641.9642,18896.70277
-5/3/20,TL,Timor-Leste,SEARO,0,24,0,0,,,130055.8954,19364.15141
-5/4/20,TL,Timor-Leste,SEARO,0,24,0,0,,,133533.6365,19840.33716
-5/5/20,TL,Timor-Leste,SEARO,0,24,0,0,,,137075.7785,20325.34092
-5/6/20,TL,Timor-Leste,SEARO,0,24,0,0,,,140682.912,20819.24358
-5/7/20,TL,Timor-Leste,SEARO,0,24,0,0,,,144355.628,21322.12604
-5/8/20,TL,Timor-Leste,SEARO,0,24,0,0,,,148094.5173,21834.0692
-5/9/20,TL,Timor-Leste,SEARO,0,24,0,0,,,151900.1707,22355.15397
-5/10/20,TL,Timor-Leste,SEARO,0,24,0,0,,,155773.1791,22885.46123
-5/11/20,TL,Timor-Leste,SEARO,0,24,0,0,,,159714.1332,23425.0719
-5/12/20,TL,Timor-Leste,SEARO,0,24,0,0,,,163723.624,23974.06686
-5/13/20,TL,Timor-Leste,SEARO,0,24,0,0,,,167802.2422,24532.52702
-5/14/20,TL,Timor-Leste,SEARO,0,24,0,0,,,171950.5788,25100.53328
-5/15/20,TL,Timor-Leste,SEARO,0,24,0,0,,,176169.2244,25678.16654
-5/16/20,TL,Timor-Leste,SEARO,0,24,0,0,,,180458.77,26265.50769
-5/17/20,TL,Timor-Leste,SEARO,0,24,0,0,,,184819.8063,26862.63764
-5/18/20,TL,Timor-Leste,SEARO,0,24,0,0,,,189252.9243,27469.63727
-5/19/20,TL,Timor-Leste,SEARO,0,24,0,0,,,193758.7148,28086.58751
-5/20/20,TL,Timor-Leste,SEARO,0,24,0,0,,,198337.7685,28713.56923
-5/21/20,TL,Timor-Leste,SEARO,0,24,0,0,,,202990.6763,29350.66334
-5/22/20,TL,Timor-Leste,SEARO,0,24,0,0,,,207718.0291,29997.95075
-5/23/20,TL,Timor-Leste,SEARO,0,24,0,0,,,212520.4177,30655.51234
-5/24/20,TL,Timor-Leste,SEARO,0,24,0,0,,,217398.4329,31323.42902
-5/25/20,TL,Timor-Leste,SEARO,0,24,0,0,,,222352.6655,32001.78169
-5/26/20,TL,Timor-Leste,SEARO,0,24,0,0,,,227383.7065,32690.65125
-5/27/20,TL,Timor-Leste,SEARO,0,24,0,0,,,232492.1465,33390.11859
-5/28/20,TL,Timor-Leste,SEARO,0,24,0,0,,,237678.5765,34100.26462
-5/29/20,TL,Timor-Leste,SEARO,0,24,0,0,,,242943.5872,34821.17023
-5/30/20,TL,Timor-Leste,SEARO,0,24,0,0,,,248287.7696,35552.91632
-5/31/20,TL,Timor-Leste,SEARO,0,24,0,0,,,253711.7144,36295.5838
-6/1/20,TL,Timor-Leste,SEARO,0,24,0,0,,,259216.0125,37049.25356
-6/2/20,TL,Timor-Leste,SEARO,0,24,0,0,,,264801.2548,37814.0065
-6/3/20,TL,Timor-Leste,SEARO,0,24,0,0,,,270468.0319,38589.92351
-6/4/20,TL,Timor-Leste,SEARO,0,24,0,0,,,276216.9349,39377.08551
-6/5/20,TL,Timor-Leste,SEARO,0,24,0,0,,,282048.5544,40175.57339
-6/6/20,TL,Timor-Leste,SEARO,0,24,0,0,,,287963.4814,40985.46804
-6/7/20,TL,Timor-Leste,SEARO,0,24,0,0,,,293962.3067,41806.85036
-6/8/20,TL,Timor-Leste,SEARO,0,24,0,0,,,300045.621,42639.80127
-6/9/20,TL,Timor-Leste,SEARO,0,24,0,0,,,306214.0154,43484.40164
-6/10/20,TL,Timor-Leste,SEARO,0,24,0,0,,,312468.0805,44340.7324
-6/11/20,TL,Timor-Leste,SEARO,0,24,0,0,,,318808.4072,45208.87442
-6/12/20,TL,Timor-Leste,SEARO,0,24,0,0,,,325235.5863,46088.90861
-6/13/20,TL,Timor-Leste,SEARO,0,24,0,0,,,331750.2087,46980.91588
-6/14/20,TL,Timor-Leste,SEARO,0,24,0,0,,,338352.8653,47884.97712
-6/15/20,TL,Timor-Leste,SEARO,0,24,0,0,,,345044.1467,48801.17322
-6/16/20,TL,Timor-Leste,SEARO,0,24,0,0,,,351824.644,49729.5851
-6/17/20,TL,Timor-Leste,SEARO,0,24,0,0,,,358694.9478,50670.29364
-6/18/20,TL,Timor-Leste,SEARO,0,24,0,0,,,365655.6491,51623.37974
-6/19/20,TL,Timor-Leste,SEARO,0,24,0,0,,,372707.3387,52588.92432
-6/20/20,TL,Timor-Leste,SEARO,0,24,0,0,,,379850.6074,53567.00826
-6/21/20,TL,Timor-Leste,SEARO,0,24,0,0,,,387086.046,54557.71246
-6/22/20,TL,Timor-Leste,SEARO,0,24,0,0,,,394414.2453,55561.11782
-6/23/20,TL,Timor-Leste,SEARO,0,24,0,0,,,401835.7963,56577.30525
-6/24/20,TL,Timor-Leste,SEARO,0,24,0,0,,,409351.2897,57606.35564
-6/25/20,TL,Timor-Leste,SEARO,0,24,0,0,,,416961.3164,58648.34989
-6/26/20,TL,Timor-Leste,SEARO,0,24,0,0,,,424666.4672,59703.3689
-6/27/20,TL,Timor-Leste,SEARO,0,24,0,0,,,432467.3329,60771.49356
-6/28/20,TL,Timor-Leste,SEARO,0,24,0,0,,,440364.5044,61852.80479
-6/29/20,TL,Timor-Leste,SEARO,0,24,0,0,,,448358.5725,62947.38347
-6/30/20,TL,Timor-Leste,SEARO,0,24,0,0,,,456450.1281,64055.31051
-7/1/20,TL,Timor-Leste,SEARO,0,24,0,0,,,464639.7618,65176.6668
-7/2/20,TL,Timor-Leste,SEARO,0,24,0,0,,,472928.0647,66311.53325
-7/3/20,TL,Timor-Leste,SEARO,0,24,0,0,,,481315.6276,67459.99075
-7/4/20,TL,Timor-Leste,SEARO,0,24,0,0,,,489803.0412,68622.12021
-7/5/20,TL,Timor-Leste,SEARO,0,24,0,0,,,498390.8964,69798.00251
-7/6/20,TL,Timor-Leste,SEARO,0,24,0,0,,,507079.784,70987.71857
-7/7/20,TL,Timor-Leste,SEARO,0,24,0,0,,,515870.2949,72191.34927
-7/8/20,TL,Timor-Leste,SEARO,0,24,0,0,,,524763.0199,73408.97553
-7/9/20,TL,Timor-Leste,SEARO,0,24,0,0,,,533758.5498,74640.67823
-7/10/20,TL,Timor-Leste,SEARO,0,24,0,0,,,542857.4755,75886.53828
-7/11/20,TL,Timor-Leste,SEARO,0,24,0,0,,,552060.3878,77146.63658
-7/12/20,TL,Timor-Leste,SEARO,0,24,0,0,,,561367.8775,78421.05403
-7/13/20,TL,Timor-Leste,SEARO,0,24,0,0,,,570780.5354,79709.87151
-7/14/20,TL,Timor-Leste,SEARO,0,24,0,0,,,580298.9525,81013.16995
-7/15/20,TL,Timor-Leste,SEARO,0,24,0,0,,,589923.7195,82331.03022
-7/16/20,TL,Timor-Leste,SEARO,0,24,0,0,,,599655.4273,83663.53324
-7/17/20,TL,Timor-Leste,SEARO,0,24,0,0,,,609494.6666,85010.7599
-7/18/20,TL,Timor-Leste,SEARO,0,24,0,0,,,619442.0284,86372.79109
-3/7/20,TG,Togo,AFRO,1,1,0,0,,,629498.1034,87749.70773
-3/8/20,TG,Togo,AFRO,0,1,0,0,,,639663.4826,89141.59071
-3/9/20,TG,Togo,AFRO,0,1,0,0,,,649938.7566,90548.52092
-3/10/20,TG,Togo,AFRO,0,1,0,0,,,660324.5165,91970.57927
-3/11/20,TG,Togo,AFRO,0,1,0,0,,,670821.3529,93407.84666
-3/12/20,TG,Togo,AFRO,0,1,0,0,,,681429.8567,94860.40398
-3/13/20,TG,Togo,AFRO,0,1,0,0,,,692150.6188,96328.33214
-3/14/20,TG,Togo,AFRO,0,1,0,0,,,702984.23,97811.71203
-3/15/20,TG,Togo,AFRO,0,1,0,0,,,713931.2811,99310.62455
-3/16/20,TG,Togo,AFRO,0,1,0,0,,,724992.363,100825.1506
-3/17/20,TG,Togo,AFRO,0,1,0,0,,,736168.0664,102355.3711
-3/18/20,TG,Togo,AFRO,0,1,0,0,,,747458.9823,103901.3669
-3/19/20,TG,Togo,AFRO,8,9,0,0,,,758865.7014,105463.219
-3/20/20,TG,Togo,AFRO,0,9,0,0,,,770388.8146,107041.0081
+1/31/20,GB,The United Kingdom,EURO,2,2,0,0,,,6009.338858,2379.217736
+2/1/20,GB,The United Kingdom,EURO,0,2,0,0,,,6009.43733,2379.231219
+2/2/20,GB,The United Kingdom,EURO,0,2,0,0,,,6010.126635,2379.325602
+2/3/20,GB,The United Kingdom,EURO,0,2,0,0,,,6011.997606,2379.581782
+2/4/20,GB,The United Kingdom,EURO,0,2,0,0,,,6015.641076,2380.08066
+2/5/20,GB,The United Kingdom,EURO,0,2,0,0,,,6021.647877,2380.903135
+2/6/20,GB,The United Kingdom,EURO,0,2,0,0,,,6030.608844,2382.130105
+2/7/20,GB,The United Kingdom,EURO,1,3,0,0,,,6043.114807,2383.84247
+2/8/20,GB,The United Kingdom,EURO,0,3,0,0,,,6059.756602,2386.121128
+2/9/20,GB,The United Kingdom,EURO,1,4,0,0,,,6081.12506,2389.04698
+2/10/20,GB,The United Kingdom,EURO,0,4,0,0,,,6107.811014,2392.700924
+2/11/20,GB,The United Kingdom,EURO,4,8,0,0,,,6140.405297,2397.163859
+2/12/20,GB,The United Kingdom,EURO,0,8,0,0,,,6179.498743,2402.516685
+2/13/20,GB,The United Kingdom,EURO,1,9,0,0,,,6225.682185,2408.8403
+2/14/20,GB,The United Kingdom,EURO,0,9,0,0,,,6279.546454,2416.215604
+2/15/20,GB,The United Kingdom,EURO,0,9,0,0,,,6341.682384,2424.723496
+2/16/20,GB,The United Kingdom,EURO,0,9,0,0,,,6412.680809,2434.444874
+2/17/20,GB,The United Kingdom,EURO,0,9,0,0,,,6493.13256,2445.460639
+2/18/20,GB,The United Kingdom,EURO,0,9,0,0,,,6583.628472,2457.851688
+2/19/20,GB,The United Kingdom,EURO,0,9,0,0,,,6684.759376,2471.698922
+2/20/20,GB,The United Kingdom,EURO,0,9,0,0,,,6797.116106,2487.08324
+2/21/20,GB,The United Kingdom,EURO,0,9,0,0,,,6921.289494,2504.08554
+2/22/20,GB,The United Kingdom,EURO,0,9,0,0,,,7057.870375,2522.786722
+2/23/20,GB,The United Kingdom,EURO,0,9,0,0,,,7207.44958,2543.267684
+2/24/20,GB,The United Kingdom,EURO,4,13,0,0,,,7370.617942,2565.609327
+2/25/20,GB,The United Kingdom,EURO,0,13,0,0,,,7547.966295,2589.892548
+2/26/20,GB,The United Kingdom,EURO,0,13,0,0,,,7740.085471,2616.198248
+2/27/20,GB,The United Kingdom,EURO,0,13,0,0,,,7947.566304,2644.607325
+2/28/20,GB,The United Kingdom,EURO,3,16,0,0,,,8170.999626,2675.200678
+2/29/20,GB,The United Kingdom,EURO,2,18,0,0,,,8410.97627,2708.059207
+3/1/20,GB,The United Kingdom,EURO,5,23,0,0,,,8668.087069,2743.263811
+3/2/20,GB,The United Kingdom,EURO,13,36,0,0,,,8942.922857,2780.895389
+3/3/20,GB,The United Kingdom,EURO,4,40,0,0,,,9236.074465,2821.034839
+3/4/20,GB,The United Kingdom,EURO,11,51,0,0,,,9548.132727,2863.763062
+3/5/20,GB,The United Kingdom,EURO,34,85,0,0,,,9879.688476,2909.160956
+3/6/20,GB,The United Kingdom,EURO,30,115,0,0,,,10231.33255,2957.30942
+3/7/20,GB,The United Kingdom,EURO,48,163,1,1,,,10603.65577,3008.289354
+3/8/20,GB,The United Kingdom,EURO,43,206,1,2,,,10997.24897,3062.181656
+3/9/20,GB,The United Kingdom,EURO,67,273,0,2,,,11412.703,3119.067226
+3/10/20,GB,The United Kingdom,EURO,48,321,1,3,,,11850.60868,3179.026963
+3/11/20,GB,The United Kingdom,EURO,52,373,4,7,,,12311.55684,3242.141766
+3/12/20,GB,The United Kingdom,EURO,83,456,0,7,,,12796.13832,3308.492534
+3/13/20,GB,The United Kingdom,EURO,134,590,2,9,,,13304.94395,3378.160166
+3/14/20,GB,The United Kingdom,EURO,117,707,1,10,,,13838.56456,3451.225562
+3/15/20,GB,The United Kingdom,EURO,433,1140,18,28,,,14397.59099,3527.76962
+3/16/20,GB,The United Kingdom,EURO,251,1391,15,43,,,14982.61407,3607.873239
+3/17/20,GB,The United Kingdom,EURO,152,1543,22,65,,,15594.22463,3691.61732
+3/18/20,GB,The United Kingdom,EURO,407,1950,16,81,,,16233.01351,3779.08276
+3/19/20,GB,The United Kingdom,EURO,680,2630,34,115,,,16899.57153,3870.35046
+3/20/20,GB,The United Kingdom,EURO,647,3277,43,158,,,17594.48954,3965.501317
+3/21/20,GB,The United Kingdom,EURO,706,3983,36,194,,,18318.35835,4064.616232
+3/22/20,GB,The United Kingdom,EURO,1035,5018,56,250,,,19071.76882,4167.776103
+3/23/20,GB,The United Kingdom,EURO,669,5687,35,285,,,19855.31177,4275.06183
+3/24/20,GB,The United Kingdom,EURO,967,6654,74,359,,,20669.57802,4386.554311
+3/25/20,GB,The United Kingdom,EURO,1427,8081,149,508,,,21515.15843,4502.334446
+3/26/20,GB,The United Kingdom,EURO,1452,9533,186,694,,,22392.64381,4622.483134
+3/27/20,GB,The United Kingdom,EURO,2129,11662,183,877,,,23302.625,4747.081274
+3/28/20,GB,The United Kingdom,EURO,2885,14547,284,1161,,,24245.69284,4876.209765
+3/29/20,GB,The United Kingdom,EURO,2546,17093,294,1455,,,25222.43815,5009.949506
+3/30/20,GB,The United Kingdom,EURO,2433,19526,214,1669,,,26233.45178,5148.381397
+3/31/20,GB,The United Kingdom,EURO,2619,22145,374,2043,,,27279.32455,5291.586337
+4/1/20,GB,The United Kingdom,EURO,3009,25154,382,2425,,,28360.64729,5439.645224
+4/2/20,GB,The United Kingdom,EURO,4324,29478,670,3095,,,29478.01085,5592.638957
+4/3/20,GB,The United Kingdom,EURO,4244,33722,652,3747,,,30632.00604,5750.648437
+4/4/20,GB,The United Kingdom,EURO,4450,38172,714,4461,,,31823.22371,5913.754562
+4/5/20,GB,The United Kingdom,EURO,3735,41907,760,5221,,,33052.25469,6082.038231
+4/6/20,GB,The United Kingdom,EURO,5903,47810,644,5865,,,34319.68981,6255.580343
+4/7/20,GB,The United Kingdom,EURO,3802,51612,568,6433,,,35626.11991,6434.461798
+4/8/20,GB,The United Kingdom,EURO,3634,55246,1038,7471,,,36972.13581,6618.763494
+4/9/20,GB,The United Kingdom,EURO,5491,60737,1034,8505,,,38358.32835,6808.566331
+4/10/20,GB,The United Kingdom,EURO,4344,65081,1103,9608,,,39785.28836,7003.951208
+4/11/20,GB,The United Kingdom,EURO,5195,70276,1152,10760,,,41253.60668,7204.999024
+4/12/20,GB,The United Kingdom,EURO,8719,78995,839,11599,,,42763.87413,7411.790678
+4/13/20,GB,The United Kingdom,EURO,5288,84283,686,12285,,,44316.68156,7624.407069
+4/14/20,GB,The United Kingdom,EURO,4342,88625,744,13029,,,45912.61979,7842.929096
+4/15/20,GB,The United Kingdom,EURO,5252,93877,1044,14073,,,47552.27966,8067.437659
+4/16/20,GB,The United Kingdom,EURO,4603,98480,842,14915,,,49236.252,8298.013656
+4/17/20,GB,The United Kingdom,EURO,4617,103097,1029,15944,,,50965.12764,8534.737987
+4/18/20,GB,The United Kingdom,EURO,5599,108696,935,16879,,,52739.49742,8777.691551
+4/19/20,GB,The United Kingdom,EURO,5525,114221,1115,17994,,,54559.95217,9026.955247
+4/20/20,GB,The United Kingdom,EURO,5850,120071,498,18492,,,56427.08272,9282.609974
+4/21/20,GB,The United Kingdom,EURO,4676,124747,559,19051,,,58341.4799,9544.736631
+4/22/20,GB,The United Kingdom,EURO,4301,129048,1172,20223,,,60303.73455,9813.416118
+4/23/20,GB,The United Kingdom,EURO,4451,133499,837,21060,,,62314.43751,10088.72933
+4/24/20,GB,The United Kingdom,EURO,4583,138082,727,21787,,,64374.17959,10370.75718
+4/25/20,GB,The United Kingdom,EURO,5386,143468,1005,22792,,,66483.55165,10659.58054
+4/26/20,GB,The United Kingdom,EURO,4913,148381,843,23635,,,68643.1445,10955.28034
+4/27/20,GB,The United Kingdom,EURO,4463,152844,420,24055,,,70853.54898,11257.93746
+4/28/20,GB,The United Kingdom,EURO,4309,157153,338,24393,,,73115.35594,11567.6328
+4/29/20,GB,The United Kingdom,EURO,3996,161149,909,25302,,,75429.15618,11884.44727
+4/30/20,GB,The United Kingdom,EURO,4076,165225,795,26097,,,77795.54056,12208.46176
+5/1/20,GB,The United Kingdom,EURO,6032,171257,674,26771,,,80215.09991,12539.75717
+5/2/20,GB,The United Kingdom,EURO,6201,177458,739,27510,,,82688.42505,12878.41441
+5/3/20,GB,The United Kingdom,EURO,4806,182264,621,28131,,,85216.10682,13224.51436
+5/4/20,GB,The United Kingdom,EURO,4339,186603,315,28446,,,87798.73606,13578.13793
+5/5/20,GB,The United Kingdom,EURO,3985,190588,288,28734,,,90436.90359,13939.36602
+5/6/20,GB,The United Kingdom,EURO,4406,194994,693,29427,,,93131.20025,14308.27952
+5/7/20,GB,The United Kingdom,EURO,6211,201205,649,30076,,,95882.21687,14684.95935
+5/8/20,GB,The United Kingdom,EURO,5514,206719,539,30615,,,98690.54429,15069.48638
+5/9/20,GB,The United Kingdom,EURO,4649,211368,626,31241,,,101556.7733,15461.94153
+5/10/20,GB,The United Kingdom,EURO,3896,215264,346,31587,,,104481.4948,15862.4057
+5/11/20,GB,The United Kingdom,EURO,3923,219187,268,31855,,,107465.2996,16270.95978
+5/12/20,GB,The United Kingdom,EURO,3877,223064,210,32065,,,110508.7786,16687.68467
+5/13/20,GB,The United Kingdom,EURO,3403,226467,627,32692,,,113612.5224,17112.66127
+5/14/20,GB,The United Kingdom,EURO,3242,229709,494,33186,,,116777.1221,17545.97048
+5/15/20,GB,The United Kingdom,EURO,3446,233155,428,33614,,,120003.1684,17987.6932
+5/16/20,GB,The United Kingdom,EURO,3560,236715,384,33998,,,123291.2522,18437.91033
+5/17/20,GB,The United Kingdom,EURO,3450,240165,468,34466,,,126641.9642,18896.70277
+5/18/20,GB,The United Kingdom,EURO,3534,243699,170,34636,,,130055.8954,19364.15141
+5/19/20,GB,The United Kingdom,EURO,2711,246410,160,34796,,,133533.6365,19840.33716
+5/20/20,GB,The United Kingdom,EURO,2412,248822,545,35341,,,137075.7785,20325.34092
+5/21/20,GB,The United Kingdom,EURO,-525,248297,363,35704,,,140682.912,20819.24358
+5/22/20,GB,The United Kingdom,EURO,2615,250912,338,36042,,,144355.628,21322.12604
+5/23/20,GB,The United Kingdom,EURO,3287,254199,351,36393,,,148094.5173,21834.0692
+5/24/20,GB,The United Kingdom,EURO,2959,257158,282,36675,,,151900.1707,22355.15397
+5/25/20,GB,The United Kingdom,EURO,2405,259563,118,36793,,,155773.1791,22885.46123
+5/26/20,GB,The United Kingdom,EURO,1625,261188,121,36914,,,159714.1332,23425.0719
+5/27/20,GB,The United Kingdom,EURO,4043,265231,134,37048,,,163723.624,23974.06686
+5/28/20,GB,The United Kingdom,EURO,2013,267244,412,37460,,,167802.2422,24532.52702
+5/29/20,GB,The United Kingdom,EURO,1887,269131,377,37837,,,171950.5788,25100.53328
+5/30/20,GB,The United Kingdom,EURO,2095,271226,324,38161,,,176169.2244,25678.16654
+5/31/20,GB,The United Kingdom,EURO,1604,272830,215,38376,,,180458.77,26265.50769
+6/1/20,GB,The United Kingdom,EURO,1936,274766,113,38489,,,184819.8063,26862.63764
+6/2/20,GB,The United Kingdom,EURO,1570,276336,556,39045,,,189252.9243,27469.63727
+6/3/20,GB,The United Kingdom,EURO,1653,277989,324,39369,,,193758.7148,28086.58751
+6/4/20,GB,The United Kingdom,EURO,1871,279860,359,39728,,,198337.7685,28713.56923
+6/5/20,GB,The United Kingdom,EURO,1805,281665,176,39904,,,202990.6763,29350.66334
+6/6/20,GB,The United Kingdom,EURO,1650,283315,357,40261,,,207718.0291,29997.95075
+6/7/20,GB,The United Kingdom,EURO,1557,284872,204,40465,,,212520.4177,30655.51234
+6/8/20,GB,The United Kingdom,EURO,1326,286198,77,40542,,,217398.4329,31323.42902
+6/9/20,GB,The United Kingdom,EURO,1205,287403,55,40597,,,222352.6655,32001.78169
+6/10/20,GB,The United Kingdom,EURO,1741,289144,286,40883,,,227383.7065,32690.65125
+6/11/20,GB,The United Kingdom,EURO,1003,290147,245,41128,,,232492.1465,33390.11859
+6/12/20,GB,The United Kingdom,EURO,1266,291413,151,41279,,,237678.5765,34100.26462
+6/13/20,GB,The United Kingdom,EURO,1541,292954,202,41481,,,242943.5872,34821.17023
+6/14/20,GB,The United Kingdom,EURO,1425,294379,181,41662,,,248287.7696,35552.91632
+6/15/20,GB,The United Kingdom,EURO,1514,295893,36,41698,,,253711.7144,36295.5838
+6/16/20,GB,The United Kingdom,EURO,968,296861,38,41736,,,259216.0125,37049.25356
+6/17/20,GB,The United Kingdom,EURO,1279,298140,233,41969,,,264801.2548,37814.0065
+6/18/20,GB,The United Kingdom,EURO,1115,299255,184,42153,,,270468.0319,38589.92351
+6/19/20,GB,The United Kingdom,EURO,1218,300473,135,42288,,,276216.9349,39377.08551
+6/20/20,GB,The United Kingdom,EURO,1346,301819,173,42461,,,282048.5544,40175.57339
+6/21/20,GB,The United Kingdom,EURO,1295,303114,128,42589,,,287963.4814,40985.46804
+6/22/20,GB,The United Kingdom,EURO,1221,304335,43,42632,,,293962.3067,41806.85036
+6/23/20,GB,The United Kingdom,EURO,958,305293,15,42647,,,300045.621,42639.80127
+6/24/20,GB,The United Kingdom,EURO,921,306214,280,42927,,,306214.0154,43484.40164
+6/25/20,GB,The United Kingdom,EURO,652,306866,154,43081,,,312468.0805,44340.7324
+6/26/20,GB,The United Kingdom,EURO,1118,307984,149,43230,,,318808.4072,45208.87442
+6/27/20,GB,The United Kingdom,EURO,1380,309364,184,43414,,,325235.5863,46088.90861
+6/28/20,GB,The United Kingdom,EURO,890,310254,100,43514,,,331750.2087,46980.91588
+6/29/20,GB,The United Kingdom,EURO,901,311155,36,43550,,,338352.8653,47884.97712
+6/30/20,GB,The United Kingdom,EURO,814,311969,25,43575,,,345044.1467,48801.17322
+7/1/20,GB,The United Kingdom,EURO,689,312658,155,43730,,,351824.644,49729.5851
+7/2/20,GB,The United Kingdom,EURO,829,313487,176,43906,,,358694.9478,50670.29364
+7/3/20,GB,The United Kingdom,EURO,-29726,283761,89,43995,,,365655.6491,51623.37974
+7/4/20,GB,The United Kingdom,EURO,519,284280,136,44131,,,372707.3387,52588.92432
+7/5/20,GB,The United Kingdom,EURO,624,284904,67,44198,,,379850.6074,53567.00826
+7/6/20,GB,The United Kingdom,EURO,516,285420,22,44220,,,387086.046,54557.71246
+7/7/20,GB,The United Kingdom,EURO,352,285772,16,44236,,,394414.2453,55561.11782
+7/8/20,GB,The United Kingdom,EURO,581,286353,155,44391,,,401835.7963,56577.30525
+7/9/20,GB,The United Kingdom,EURO,630,286983,126,44517,,,409351.2897,57606.35564
+7/10/20,GB,The United Kingdom,EURO,642,287625,85,44602,,,416961.3164,58648.34989
+7/11/20,GB,The United Kingdom,EURO,512,288137,48,44650,,,424666.4672,59703.3689
+7/12/20,GB,The United Kingdom,EURO,820,288957,148,44798,,,432467.3329,60771.49356
+7/13/20,GB,The United Kingdom,EURO,650,289607,21,44819,,,440364.5044,61852.80479
+7/14/20,GB,The United Kingdom,EURO,530,290137,11,44830,,,448358.5725,62947.38347
+7/15/20,GB,The United Kingdom,EURO,1240,291377,138,44968,,,456450.1281,64055.31051
+7/16/20,GB,The United Kingdom,EURO,538,291915,85,45053,,,464639.7618,65176.6668
+7/17/20,GB,The United Kingdom,EURO,641,292556,66,45119,,,472928.0647,66311.53325
+7/18/20,GB,The United Kingdom,EURO,,,,,,,481315.6276,67459.99075
+7/19/20,GB,The United Kingdom,EURO,,,,,,,489803.0412,68622.12021
+7/20/20,GB,The United Kingdom,EURO,,,,,,,498390.8964,69798.00251
+7/21/20,GB,The United Kingdom,EURO,,,,,,,507079.784,70987.71857
+7/22/20,GB,The United Kingdom,EURO,,,,,,,515870.2949,72191.34927
+7/23/20,GB,The United Kingdom,EURO,,,,,,,524763.0199,73408.97553
+7/24/20,GB,The United Kingdom,EURO,,,,,,,533758.5498,74640.67823
+7/25/20,GB,The United Kingdom,EURO,,,,,,,542857.4755,75886.53828
+7/26/20,GB,The United Kingdom,EURO,,,,,,,552060.3878,77146.63658
+7/27/20,GB,The United Kingdom,EURO,,,,,,,561367.8775,78421.05403
+7/28/20,GB,The United Kingdom,EURO,,,,,,,570780.5354,79709.87151
+7/29/20,GB,The United Kingdom,EURO,,,,,,,580298.9525,81013.16995
+7/30/20,GB,The United Kingdom,EURO,,,,,,,589923.7195,82331.03022
+7/31/20,GB,The United Kingdom,EURO,,,,,,,599655.4273,83663.53324
+8/1/20,GB,The United Kingdom,EURO,,,,,,,609494.6666,85010.7599
+8/2/20,GB,The United Kingdom,EURO,,,,,,,619442.0284,86372.79109
+8/3/20,GB,The United Kingdom,EURO,,,,,,,629498.1034,87749.70773
+8/4/20,GB,The United Kingdom,EURO,,,,,,,639663.4826,89141.59071
+8/5/20,GB,The United Kingdom,EURO,,,,,,,649938.7566,90548.52092
+8/6/20,GB,The United Kingdom,EURO,,,,,,,660324.5165,91970.57927
+8/7/20,GB,The United Kingdom,EURO,,,,,,,670821.3529,93407.84666
+8/8/20,GB,The United Kingdom,EURO,,,,,,,681429.8567,94860.40398
+8/9/20,GB,The United Kingdom,EURO,,,,,,,692150.6188,96328.33214
+8/10/20,GB,The United Kingdom,EURO,,,,,,,702984.23,97811.71203
+8/11/20,GB,The United Kingdom,EURO,,,,,,,713931.2811,99310.62455
+8/12/20,GB,The United Kingdom,EURO,,,,,,,724992.363,100825.1506
+8/13/20,GB,The United Kingdom,EURO,,,,,,,736168.0664,102355.3711
+8/14/20,GB,The United Kingdom,EURO,,,,,,,747458.9823,103901.3669
+8/15/20,GB,The United Kingdom,EURO,,,,,,,758865.7014,105463.219
+8/16/20,GB,The United Kingdom,EURO,,,,,,,770388.8146,107041.0081
+3/20/20,TL,Timor-Leste,SEARO,1,1,0,0,,,,
+3/21/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/22/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/23/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/24/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/25/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/26/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/27/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/28/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/29/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/30/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+3/31/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/1/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/2/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/3/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/4/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/5/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/6/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/7/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/8/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/9/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/10/20,TL,Timor-Leste,SEARO,0,1,0,0,,,,
+4/11/20,TL,Timor-Leste,SEARO,1,2,0,0,,,,
+4/12/20,TL,Timor-Leste,SEARO,0,2,0,0,,,,
+4/13/20,TL,Timor-Leste,SEARO,2,4,0,0,,,,
+4/14/20,TL,Timor-Leste,SEARO,2,6,0,0,,,,
+4/15/20,TL,Timor-Leste,SEARO,0,6,0,0,,,,
+4/16/20,TL,Timor-Leste,SEARO,12,18,0,0,,,,
+4/17/20,TL,Timor-Leste,SEARO,0,18,0,0,,,,
+4/18/20,TL,Timor-Leste,SEARO,0,18,0,0,,,,
+4/19/20,TL,Timor-Leste,SEARO,1,19,0,0,,,,
+4/20/20,TL,Timor-Leste,SEARO,3,22,0,0,,,,
+4/21/20,TL,Timor-Leste,SEARO,1,23,0,0,,,,
+4/22/20,TL,Timor-Leste,SEARO,0,23,0,0,,,,
+4/23/20,TL,Timor-Leste,SEARO,0,23,0,0,,,,
+4/24/20,TL,Timor-Leste,SEARO,1,24,0,0,,,,
+4/25/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+4/26/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+4/27/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+4/28/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+4/29/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+4/30/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/1/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/2/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/3/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/4/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/5/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/6/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/7/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/8/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/9/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/10/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/11/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/12/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/13/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/14/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/15/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/16/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/17/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/18/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/19/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/20/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/21/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/22/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/23/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/24/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/25/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/26/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/27/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/28/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/29/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/30/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+5/31/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/1/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/2/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/3/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/4/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/5/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/6/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/7/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/8/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/9/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/10/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/11/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/12/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/13/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/14/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/15/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/16/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/17/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/18/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/19/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/20/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/21/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/22/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/23/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/24/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/25/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/26/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/27/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/28/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/29/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+6/30/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/1/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/2/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/3/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/4/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/5/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/6/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/7/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/8/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/9/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/10/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/11/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/12/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/13/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/14/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/15/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/16/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/17/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+7/18/20,TL,Timor-Leste,SEARO,0,24,0,0,,,,
+3/7/20,TG,Togo,AFRO,1,1,0,0,,,,
+3/8/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/9/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/10/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/11/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/12/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/13/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/14/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/15/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/16/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/17/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/18/20,TG,Togo,AFRO,0,1,0,0,,,,
+3/19/20,TG,Togo,AFRO,8,9,0,0,,,,
+3/20/20,TG,Togo,AFRO,0,9,0,0,,,,
 3/21/20,TG,Togo,AFRO,6,15,0,0,,,,
 3/22/20,TG,Togo,AFRO,0,15,0,0,,,,
 3/23/20,TG,Togo,AFRO,1,16,0,0,,,,
@@ -26958,6 +27057,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,TG,Togo,AFRO,11,731,0,15,,,,
 7/16/20,TG,Togo,AFRO,9,740,0,15,,,,
 7/17/20,TG,Togo,AFRO,9,749,0,15,,,,
+7/18/20,TG,Togo,AFRO,17,766,0,15,,,,
 3/13/20,TT,Trinidad and Tobago,AMRO,1,1,0,0,,,,
 3/14/20,TT,Trinidad and Tobago,AMRO,0,1,0,0,,,,
 3/15/20,TT,Trinidad and Tobago,AMRO,1,2,0,0,,,,
@@ -27354,6 +27454,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,TR,Turkey,EURO,992,214993,20,5402,,,,
 7/16/20,TR,Turkey,EURO,947,215940,17,5419,,,,
 7/17/20,TR,Turkey,EURO,933,216873,21,5440,,,,
+7/18/20,TR,Turkey,EURO,926,217799,18,5458,,,,
 3/24/20,TC,Turks and Caicos Islands,AMRO,1,1,0,0,,,,
 3/25/20,TC,Turks and Caicos Islands,AMRO,0,1,0,0,,,,
 3/26/20,TC,Turks and Caicos Islands,AMRO,1,2,0,0,,,,
@@ -27590,6 +27691,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,UG,Uganda,AFRO,11,1040,0,0,,,,
 7/16/20,UG,Uganda,AFRO,3,1043,0,0,,,,
 7/17/20,UG,Uganda,AFRO,8,1051,0,0,,,,
+7/18/20,UG,Uganda,AFRO,5,1056,0,0,,,,
 3/3/20,UA,Ukraine,EURO,1,1,0,0,,,,
 3/4/20,UA,Ukraine,EURO,0,1,0,0,,,,
 3/5/20,UA,Ukraine,EURO,0,1,0,0,,,,
@@ -27727,6 +27829,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,UA,Ukraine,EURO,836,55607,15,1427,,,,
 7/16/20,UA,Ukraine,EURO,848,56455,18,1445,,,,
 7/17/20,UA,Ukraine,EURO,809,57264,11,1456,,,,
+7/18/20,UA,Ukraine,EURO,847,58111,21,1477,,,,
 1/29/20,AE,United Arab Emirates,EMRO,4,4,0,0,,,,
 1/30/20,AE,United Arab Emirates,EMRO,0,4,0,0,,,,
 1/31/20,AE,United Arab Emirates,EMRO,0,4,0,0,,,,
@@ -28022,352 +28125,353 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,TZ,United Republic of Tanzania,AFRO,0,509,0,21,,,,
 7/16/20,TZ,United Republic of Tanzania,AFRO,0,509,0,21,,,,
 7/17/20,TZ,United Republic of Tanzania,AFRO,0,509,0,21,,,,
-1/20/20,US,United States of America,AMRO,1,1,0,0,,,,
-1/21/20,US,United States of America,AMRO,0,1,0,0,,,,
-1/22/20,US,United States of America,AMRO,0,1,0,0,,,,
-1/23/20,US,United States of America,AMRO,0,1,0,0,,,,
-1/24/20,US,United States of America,AMRO,1,2,0,0,,,,
-1/25/20,US,United States of America,AMRO,0,2,0,0,,,,
-1/26/20,US,United States of America,AMRO,3,5,0,0,,,,
-1/27/20,US,United States of America,AMRO,0,5,0,0,,,,
-1/28/20,US,United States of America,AMRO,0,5,0,0,,,,
-1/29/20,US,United States of America,AMRO,0,5,0,0,,,,
-1/30/20,US,United States of America,AMRO,1,6,0,0,,,,
-1/31/20,US,United States of America,AMRO,1,7,0,0,,,,
-2/1/20,US,United States of America,AMRO,1,8,0,0,,,,
-2/2/20,US,United States of America,AMRO,0,8,0,0,,,,
-2/3/20,US,United States of America,AMRO,3,11,0,0,,,,
-2/4/20,US,United States of America,AMRO,0,11,0,0,,,,
-2/5/20,US,United States of America,AMRO,0,11,0,0,,,,
-2/6/20,US,United States of America,AMRO,1,12,0,0,,,,
-2/7/20,US,United States of America,AMRO,0,12,0,0,,,,
-2/8/20,US,United States of America,AMRO,0,12,0,0,,,,
-2/9/20,US,United States of America,AMRO,0,12,0,0,,,,
-2/10/20,US,United States of America,AMRO,0,12,0,0,,,,
-2/11/20,US,United States of America,AMRO,1,13,0,0,,,,
-2/12/20,US,United States of America,AMRO,0,13,0,0,,,,
-2/13/20,US,United States of America,AMRO,2,15,0,0,,,,
-2/14/20,US,United States of America,AMRO,0,15,0,0,,,,
-2/15/20,US,United States of America,AMRO,0,15,0,0,,,,
-2/16/20,US,United States of America,AMRO,0,15,0,0,,,,
-2/17/20,US,United States of America,AMRO,0,15,0,0,,,,
-2/18/20,US,United States of America,AMRO,0,15,0,0,,,,
-2/19/20,US,United States of America,AMRO,0,15,0,0,,,,
-2/20/20,US,United States of America,AMRO,0,15,0,0,,,,
-2/21/20,US,United States of America,AMRO,19,34,0,0,,,,
-2/22/20,US,United States of America,AMRO,1,35,0,0,,,,
-2/23/20,US,United States of America,AMRO,0,35,0,0,,,,
-2/24/20,US,United States of America,AMRO,18,53,0,0,,,,
-2/25/20,US,United States of America,AMRO,0,53,0,0,,,,
-2/26/20,US,United States of America,AMRO,6,59,0,0,,,,
-2/27/20,US,United States of America,AMRO,0,59,0,0,,,,
-2/28/20,US,United States of America,AMRO,3,62,0,0,,,,
-2/29/20,US,United States of America,AMRO,0,62,0,0,,,,
-3/1/20,US,United States of America,AMRO,0,62,0,0,,,,
-3/2/20,US,United States of America,AMRO,2,64,0,0,,,,
-3/3/20,US,United States of America,AMRO,44,108,2,2,,,,
-3/4/20,US,United States of America,AMRO,21,129,3,5,,,,
-3/5/20,US,United States of America,AMRO,19,148,5,10,,,,
-3/6/20,US,United States of America,AMRO,65,213,1,11,,,,
-3/7/20,US,United States of America,AMRO,0,213,0,11,,,,
-3/8/20,US,United States of America,AMRO,0,213,0,11,,,,
-3/9/20,US,United States of America,AMRO,259,472,8,19,,,,
-3/10/20,US,United States of America,AMRO,224,696,6,25,,,,
-3/11/20,US,United States of America,AMRO,0,696,0,25,,,,
-3/12/20,US,United States of America,AMRO,291,987,4,29,,,,
-3/13/20,US,United States of America,AMRO,277,1264,7,36,,,,
-3/14/20,US,United States of America,AMRO,414,1678,5,41,,,,
-3/15/20,US,United States of America,AMRO,36,1714,0,41,,,,
-3/16/20,US,United States of America,AMRO,0,1714,0,41,,,,
-3/17/20,US,United States of America,AMRO,1822,3536,17,58,,,,
-3/18/20,US,United States of America,AMRO,3551,7087,42,100,,,,
-3/19/20,US,United States of America,AMRO,3355,10442,50,150,,,,
-3/20/20,US,United States of America,AMRO,4777,15219,51,201,,,,
-3/21/20,US,United States of America,AMRO,0,15219,0,201,,,,
-3/22/20,US,United States of America,AMRO,0,15219,0,201,,,,
-3/23/20,US,United States of America,AMRO,16354,31573,201,402,,,,
-3/24/20,US,United States of America,AMRO,20341,51914,271,673,,,,
-3/25/20,US,United States of America,AMRO,0,51914,0,673,,,,
-3/26/20,US,United States of America,AMRO,16420,68334,318,991,,,,
-3/27/20,US,United States of America,AMRO,0,68334,0,991,,,,
-3/28/20,US,United States of America,AMRO,16894,85228,252,1243,,,,
-3/29/20,US,United States of America,AMRO,18093,103321,425,1668,,,,
-3/30/20,US,United States of America,AMRO,19332,122653,444,2112,,,,
-3/31/20,US,United States of America,AMRO,17987,140640,286,2398,,,,
-4/1/20,US,United States of America,AMRO,22559,163199,452,2850,,,,
-4/2/20,US,United States of America,AMRO,24103,187302,996,3846,,,,
-4/3/20,US,United States of America,AMRO,26298,213600,947,4793,,,,
-4/4/20,US,United States of America,AMRO,28103,241703,1061,5854,,,,
-4/5/20,US,United States of America,AMRO,32105,273808,1166,7020,,,,
-4/6/20,US,United States of America,AMRO,33510,307318,1338,8358,,,,
-4/7/20,US,United States of America,AMRO,26493,333811,1201,9559,,,,
-4/8/20,US,United States of America,AMRO,29510,363321,1286,10845,,,,
-4/9/20,US,United States of America,AMRO,31709,395030,1895,12740,,,,
-4/10/20,US,United States of America,AMRO,30859,425889,1925,14665,,,,
-4/11/20,US,United States of America,AMRO,35386,461275,1931,16596,,,,
-4/12/20,US,United States of America,AMRO,31606,492881,1920,18516,,,,
-4/13/20,US,United States of America,AMRO,31633,524514,1928,20444,,,,
-4/14/20,US,United States of America,AMRO,29308,553822,1528,21972,,,,
-4/15/20,US,United States of America,AMRO,24446,578268,1504,23476,,,,
-4/16/20,US,United States of America,AMRO,25802,604070,2395,25871,,,,
-4/17/20,US,United States of America,AMRO,28711,632781,6409,32280,,,,
-4/18/20,US,United States of America,AMRO,32549,665330,2018,34298,,,,
-4/19/20,US,United States of America,AMRO,30023,695353,2438,36736,,,,
-4/20/20,US,United States of America,AMRO,28252,723605,1776,38512,,,,
-4/21/20,US,United States of America,AMRO,27668,751273,1801,40313,,,,
-4/22/20,US,United States of America,AMRO,25634,776907,2154,42467,,,,
-4/23/20,US,United States of America,AMRO,24019,800926,2575,45042,,,,
-4/24/20,US,United States of America,AMRO,29127,830053,2390,47432,,,,
-4/25/20,US,United States of America,AMRO,30719,860772,1742,49174,,,,
-4/26/20,US,United States of America,AMRO,38509,899281,2151,51325,,,,
-4/27/20,US,United States of America,AMRO,32417,931698,1964,53289,,,,
-4/28/20,US,United States of America,AMRO,29218,960916,1109,54398,,,,
-4/29/20,US,United States of America,AMRO,22541,983457,1322,55720,,,,
-4/30/20,US,United States of America,AMRO,20517,1003974,2010,57730,,,,
-5/1/20,US,United States of America,AMRO,31379,1035353,2902,60632,,,,
-5/2/20,US,United States of America,AMRO,31774,1067127,2005,62637,,,,
-5/3/20,US,United States of America,AMRO,26753,1093880,5000,67637,,,,
-5/4/20,US,United States of America,AMRO,31839,1125719,156,67793,,,,
-5/5/20,US,United States of America,AMRO,29266,1154985,-514,67279,,,,
-5/6/20,US,United States of America,AMRO,16200,1171185,802,68081,,,,
-5/7/20,US,United States of America,AMRO,22267,1193452,2475,70556,,,,
-5/8/20,US,United States of America,AMRO,22119,1215571,1968,72524,,,,
-5/9/20,US,United States of America,AMRO,30204,1245775,2840,75364,,,,
-5/10/20,US,United States of America,AMRO,25870,1271645,1552,76916,,,,
-5/11/20,US,United States of America,AMRO,26642,1298287,1736,78652,,,,
-5/12/20,US,United States of America,AMRO,23767,1322054,982,79634,,,,
-5/13/20,US,United States of America,AMRO,18044,1340098,1061,80695,,,,
-5/14/20,US,United States of America,AMRO,21424,1361522,1424,82119,,,,
-5/15/20,US,United States of America,AMRO,20840,1382362,1700,83819,,,,
-5/16/20,US,United States of America,AMRO,27090,1409452,2041,85860,,,,
-5/17/20,US,United States of America,AMRO,22813,1432265,1320,87180,,,,
-5/18/20,US,United States of America,AMRO,31967,1464232,1394,88574,,,,
-5/19/20,US,United States of America,AMRO,13227,1477459,697,89271,,,,
-5/20/20,US,United States of America,AMRO,24417,1501876,932,90203,,,,
-5/21/20,US,United States of America,AMRO,23310,1525186,1324,91527,,,,
-5/22/20,US,United States of America,AMRO,22787,1547973,1396,92923,,,,
-5/23/20,US,United States of America,AMRO,20475,1568448,1088,94011,,,,
-5/24/20,US,United States of America,AMRO,24151,1592599,1852,95863,,,,
-5/25/20,US,United States of America,AMRO,26158,1618757,1046,96909,,,,
-5/26/20,US,United States of America,AMRO,15253,1634010,620,97529,,,,
-5/27/20,US,United States of America,AMRO,24886,1658896,590,98119,,,,
-5/28/20,US,United States of America,AMRO,16362,1675258,770,98889,,,,
-5/29/20,US,United States of America,AMRO,19606,1694864,1415,100304,,,,
-5/30/20,US,United States of America,AMRO,21214,1716078,1263,101567,,,,
-5/31/20,US,United States of America,AMRO,17962,1734040,1073,102640,,,,
-6/1/20,US,United States of America,AMRO,23482,1757522,914,103554,,,,
-6/2/20,US,United States of America,AMRO,26116,1783638,693,104247,,,,
-6/3/20,US,United States of America,AMRO,14692,1798330,761,105008,,,-3148.377943,-290.2442797
-6/4/20,US,United States of America,AMRO,24890,1823220,1043,106051,,,-3147.747067,-290.212656
-6/5/20,US,United States of America,AMRO,14583,1837803,825,106876,,,-3143.330936,-289.9912902
-6/6/20,US,United States of America,AMRO,20069,1857872,1035,107911,,,-3131.344294,-289.3904404
-6/7/20,US,United States of America,AMRO,28922,1886794,1127,109038,,,-3108.001886,-288.2203643
-6/8/20,US,United States of America,AMRO,28918,1915712,708,109746,,,-3069.518457,-286.29132
-6/9/20,US,United States of America,AMRO,17848,1933560,474,110220,,,-3012.108751,-283.4135653
-6/10/20,US,United States of America,AMRO,17536,1951096,550,110770,,,-2931.987513,-279.3973582
-6/11/20,US,United States of America,AMRO,17235,1968331,1208,111978,,,-2825.369487,-274.0529567
-6/12/20,US,United States of America,AMRO,20315,1988646,832,112810,,,-2688.469419,-267.1906186
-6/13/20,US,United States of America,AMRO,21745,2010391,947,113757,,,-2517.502053,-258.6206019
-6/14/20,US,United States of America,AMRO,22133,2032524,709,114466,,,-2308.682134,-248.1531646
-6/15/20,US,United States of America,AMRO,25314,2057838,646,115112,,,-2058.224406,-235.5985646
-6/16/20,US,United States of America,AMRO,21754,2079592,372,115484,,,-1762.343613,-220.7670597
-6/17/20,US,United States of America,AMRO,18514,2098106,496,115980,,,-1417.254502,-203.468908
-6/18/20,US,United States of America,AMRO,27921,2126027,722,116702,,,-1019.171815,-183.5143673
-6/19/20,US,United States of America,AMRO,23139,2149166,770,117472,,,-564.3102988,-160.7136957
-6/20/20,US,United States of America,AMRO,23046,2172212,733,118205,,,-48.88469696,-134.877151
-6/21/20,US,United States of America,AMRO,36617,2208829,690,118895,,,530.8902457,-105.8149912
-6/22/20,US,United States of America,AMRO,32349,2241178,558,119453,,,1178.799784,-73.33747418
-6/23/20,US,United States of America,AMRO,27575,2268753,308,119761,,,1898.629174,-37.25485787
-6/24/20,US,United States of America,AMRO,26519,2295272,410,120171,,,2694.163671,2.622599712
-6/25/20,US,United States of America,AMRO,34191,2329463,784,120955,,,3569.18853,46.48464081
-6/26/20,US,United States of America,AMRO,37601,2367064,690,121645,,,4527.489007,94.52100724
-6/27/20,US,United States of America,AMRO,40526,2407590,2516,124161,,,5572.850356,146.9214411
-6/28/20,US,United States of America,AMRO,44458,2452048,650,124811,,,6709.057833,203.8756848
-6/29/20,US,United States of America,AMRO,44580,2496628,507,125318,,,7939.896694,265.5734801
-6/30/20,US,United States of America,AMRO,41008,2537636,885,126203,,,9269.152194,332.204569
-7/1/20,US,United States of America,AMRO,35757,2573393,370,126573,,,10700.60959,403.9586938
-7/2/20,US,United States of America,AMRO,43556,2616949,560,127133,,,12238.05413,481.0255963
-7/3/20,US,United States of America,AMRO,54271,2671220,725,127858,,,13885.27108,563.5950189
-7/4/20,US,United States of America,AMRO,53213,2724433,623,128481,,,15646.04569,651.8567035
-7/5/20,US,United States of America,AMRO,51933,2776366,745,129226,,,17524.16321,746.000392
-7/6/20,US,United States of America,AMRO,57186,2833552,182,129408,,,19523.4089,846.2158268
-7/7/20,US,United States of America,AMRO,43686,2877238,235,129643,,,21647.56803,952.6927498
-7/8/20,US,United States of America,AMRO,46194,2923432,320,129963,,,23900.42583,1065.620903
-7/9/20,US,United States of America,AMRO,50263,2973695,930,130893,,,26285.76757,1185.190028
-7/10/20,US,United States of America,AMRO,64630,3038325,991,131884,,,28807.3785,1311.589868
-7/11/20,US,United States of America,AMRO,58975,3097300,799,132683,,,31469.04388,1445.010164
-7/12/20,US,United States of America,AMRO,66281,3163581,803,133486,,,34274.54896,1585.640659
-7/13/20,US,United States of America,AMRO,62369,3225950,906,134392,,,37227.679,1733.671095
-7/14/20,US,United States of America,AMRO,60113,3286063,312,134704,,,40332.21925,1889.291212
-7/15/20,US,United States of America,AMRO,58720,3344783,349,135053,,,43591.95497,2052.690755
-7/16/20,US,United States of America,AMRO,60711,3405494,754,135807,,,47010.67142,2224.059465
-7/17/20,US,United States of America,AMRO,67165,3472659,946,136753,,,50592.15384,2403.587084
-7/18/20,US,United States of America,AMRO,71484,3544143,921,137674,,,54340.1875,2591.463353
-7/19/20,US,United States of America,AMRO,,,,,,,58258.55766,2787.878016
-7/20/20,US,United States of America,AMRO,,,,,,,62351.04955,2993.020813
-7/21/20,US,United States of America,AMRO,,,,,,,66621.44845,3207.081487
-7/22/20,US,United States of America,AMRO,,,,,,,71073.5396,3430.249782
-7/23/20,US,United States of America,AMRO,,,,,,,75711.10827,3662.715436
-7/24/20,US,United States of America,AMRO,,,,,,,80537.9397,3904.668194
-7/25/20,US,United States of America,AMRO,,,,,,,85557.81915,4156.297798
-7/26/20,US,United States of America,AMRO,,,,,,,90774.53189,4417.793989
-7/27/20,US,United States of America,AMRO,,,,,,,96191.86315,4689.34651
-7/28/20,US,United States of America,AMRO,,,,,,,101813.5982,4971.145102
-7/29/20,US,United States of America,AMRO,,,,,,,107643.5223,5263.379508
-7/30/20,US,United States of America,AMRO,,,,,,,113685.4207,5566.239469
-7/31/20,US,United States of America,AMRO,,,,,,,119943.0786,5879.914728
-8/1/20,US,United States of America,AMRO,,,,,,,126420.2814,6204.595028
-8/2/20,US,United States of America,AMRO,,,,,,,133120.8142,6540.470109
-8/3/20,US,United States of America,AMRO,,,,,,,140048.4624,6887.729714
-8/4/20,US,United States of America,AMRO,,,,,,,147207.0111,7246.563586
-8/5/20,US,United States of America,AMRO,,,,,,,154600.2456,7617.161465
-8/6/20,US,United States of America,AMRO,,,,,,,162231.9513,7999.713094
-8/7/20,US,United States of America,AMRO,,,,,,,170105.9133,8394.408216
-8/8/20,US,United States of America,AMRO,,,,,,,178225.9168,8801.436572
-8/9/20,US,United States of America,AMRO,,,,,,,186595.7473,9220.987906
-8/10/20,US,United States of America,AMRO,,,,,,,195219.1898,9653.251956
-8/11/20,US,United States of America,AMRO,,,,,,,204100.0297,10098.41847
-8/12/20,US,United States of America,AMRO,,,,,,,213242.0522,10556.67718
-8/13/20,US,United States of America,AMRO,,,,,,,222649.0426,11028.21784
-8/14/20,US,United States of America,AMRO,,,,,,,232324.7861,11513.23018
-8/15/20,US,United States of America,AMRO,,,,,,,242273.068,12011.90396
-8/16/20,US,United States of America,AMRO,,,,,,,252497.6736,12524.4289
-8/17/20,US,United States of America,AMRO,,,,,,,263002.388,13050.99476
-3/13/20,VI,United States Virgin Islands,AMRO,1,1,0,0,,,273790.9966,13591.79127
-3/14/20,VI,United States Virgin Islands,AMRO,0,1,0,0,,,284867.2846,14147.00818
-3/15/20,VI,United States Virgin Islands,AMRO,0,1,0,0,,,296235.0373,14716.83523
-3/16/20,VI,United States Virgin Islands,AMRO,0,1,0,0,,,307898.0398,15301.46216
-3/17/20,VI,United States Virgin Islands,AMRO,1,2,0,0,,,319860.0776,15901.07872
-3/18/20,VI,United States Virgin Islands,AMRO,1,3,0,0,,,332124.9357,16515.87463
-3/19/20,VI,United States Virgin Islands,AMRO,0,3,0,0,,,344696.3996,17146.03966
-3/20/20,VI,United States Virgin Islands,AMRO,0,3,0,0,,,357578.2544,17791.76353
-3/21/20,VI,United States Virgin Islands,AMRO,3,6,0,0,,,370774.2854,18453.236
-3/22/20,VI,United States Virgin Islands,AMRO,0,6,0,0,,,384288.2778,19130.6468
-3/23/20,VI,United States Virgin Islands,AMRO,0,6,0,0,,,398124.0169,19824.18568
-3/24/20,VI,United States Virgin Islands,AMRO,11,17,0,0,,,412285.288,20534.04237
-3/25/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,426775.8764,21260.40663
-3/26/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,441599.5671,22003.46818
-3/27/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,456760.1456,22763.41678
-3/28/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,472261.3971,23540.44216
-3/29/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,488107.1068,24334.73408
-3/30/20,VI,United States Virgin Islands,AMRO,5,22,0,0,,,504301.0601,25146.48226
-3/31/20,VI,United States Virgin Islands,AMRO,8,30,0,0,,,520847.042,25975.87646
-4/1/20,VI,United States Virgin Islands,AMRO,0,30,0,0,,,537748.838,26823.10641
-4/2/20,VI,United States Virgin Islands,AMRO,0,30,0,0,,,555010.2332,27688.36185
-4/3/20,VI,United States Virgin Islands,AMRO,3,33,0,0,,,572635.0129,28571.83254
-4/4/20,VI,United States Virgin Islands,AMRO,4,37,0,0,,,590626.9624,29473.70821
-4/5/20,VI,United States Virgin Islands,AMRO,3,40,0,0,,,608989.8669,30394.17859
-4/6/20,VI,United States Virgin Islands,AMRO,2,42,0,0,,,627727.5117,31333.43345
-4/7/20,VI,United States Virgin Islands,AMRO,1,43,1,1,,,646843.6821,32291.6625
-4/8/20,VI,United States Virgin Islands,AMRO,0,43,0,1,,,666342.1632,33269.05551
-4/9/20,VI,United States Virgin Islands,AMRO,2,45,0,1,,,686226.7404,34265.80221
-4/10/20,VI,United States Virgin Islands,AMRO,1,46,0,1,,,706501.1988,35282.09234
-4/11/20,VI,United States Virgin Islands,AMRO,5,51,0,1,,,727169.3239,36318.11565
-4/12/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,748234.9007,37374.06187
-4/13/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,769701.7146,38450.12074
-4/14/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,791573.5508,39546.48204
-4/15/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,813854.1946,40663.33546
-4/16/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,836547.4312,41800.87077
-4/17/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,859657.0459,42959.27771
-4/18/20,VI,United States Virgin Islands,AMRO,0,51,1,2,,,883186.824,44138.74602
-4/19/20,VI,United States Virgin Islands,AMRO,2,53,1,3,,,907140.5507,45339.46544
-4/20/20,VI,United States Virgin Islands,AMRO,0,53,0,3,,,931522.0112,46561.62571
-4/21/20,VI,United States Virgin Islands,AMRO,0,53,0,3,,,956334.9908,47805.41658
-4/22/20,VI,United States Virgin Islands,AMRO,1,54,0,3,,,981583.2748,49071.02778
-4/23/20,VI,United States Virgin Islands,AMRO,0,54,0,3,,,1007270.648,50358.64907
-4/24/20,VI,United States Virgin Islands,AMRO,0,54,0,3,,,1033400.897,51668.47018
-4/25/20,VI,United States Virgin Islands,AMRO,0,54,0,3,,,1059977.805,53000.68087
-4/26/20,VI,United States Virgin Islands,AMRO,1,55,0,3,,,1087005.159,54355.47083
-4/27/20,VI,United States Virgin Islands,AMRO,0,55,0,3,,,1114486.744,55733.02986
-4/28/20,VI,United States Virgin Islands,AMRO,4,59,1,4,,,1142426.345,57133.54767
-4/29/20,VI,United States Virgin Islands,AMRO,0,59,0,4,,,1170827.746,58557.21401
-4/30/20,VI,United States Virgin Islands,AMRO,3,62,0,4,,,1199694.734,60004.21865
-5/1/20,VI,United States Virgin Islands,AMRO,4,66,0,4,,,1229031.094,61474.75128
-5/2/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,1258840.611,62969.00168
-5/3/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,1289127.07,64487.15958
-5/4/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,1319894.256,66029.41471
-5/5/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,1351145.955,67595.95685
-5/6/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,1382885.952,69186.97568
-5/7/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,1415118.032,70802.66101
-5/8/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,1447845.98,72443.20253
-5/9/20,VI,United States Virgin Islands,AMRO,2,68,0,4,,,1481073.583,74108.79002
-5/10/20,VI,United States Virgin Islands,AMRO,0,68,0,4,,,1514804.624,75799.61321
-5/11/20,VI,United States Virgin Islands,AMRO,1,69,0,4,,,1549042.889,77515.8618
-5/12/20,VI,United States Virgin Islands,AMRO,0,69,1,5,,,1583792.164,79257.72561
-5/13/20,VI,United States Virgin Islands,AMRO,0,69,0,5,,,1619056.234,81025.3943
-5/14/20,VI,United States Virgin Islands,AMRO,0,69,1,6,,,1654838.883,82819.05768
-5/15/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1691143.898,84638.90547
-5/16/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1727975.063,86485.1274
-5/17/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1765336.164,88357.91321
-5/18/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1803230.986,90257.45268
-5/19/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1841663.315,92183.93547
-5/20/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1880636.935,94137.55142
-5/21/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1920155.631,96118.49022
-5/22/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,1960223.19,98126.94161
-5/23/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2000843.396,100163.0953
-5/24/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2042020.034,102227.1412
-5/25/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2083756.89,104319.2688
-5/26/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2126057.75,106439.668
-5/27/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2168926.397,108588.5286
-5/28/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2212366.618,110766.0401
-5/29/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2256382.198,112972.3925
-5/30/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2300976.922,115207.7754
-5/31/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2346154.576,117472.3786
-6/1/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,2391918.944,119766.3918
-6/2/20,VI,United States Virgin Islands,AMRO,1,70,0,6,,,2438273.811,122090.0048
-6/3/20,VI,United States Virgin Islands,AMRO,0,70,0,6,,,2485222.964,124443.4072
-6/4/20,VI,United States Virgin Islands,AMRO,0,70,0,6,,,2532770.187,126826.7889
-6/5/20,VI,United States Virgin Islands,AMRO,1,71,0,6,,,2580919.266,129240.3397
-6/6/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,2629673.986,131684.2491
-6/7/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,2679038.132,134158.707
-6/8/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,2729015.489,136663.9031
-6/9/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,2779609.842,139200.0272
-6/10/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,2830824.978,141767.269
-6/11/20,VI,United States Virgin Islands,AMRO,1,72,0,6,,,2882664.681,144365.8182
-6/12/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,2935132.736,146995.8646
-6/13/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,2988232.929,149657.598
-6/14/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,3041969.044,152351.2079
-6/15/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,3096344.868,155076.8844
-6/16/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,3151364.185,157834.8169
-6/17/20,VI,United States Virgin Islands,AMRO,1,73,0,6,,,3207030.781,160625.1954
-6/18/20,VI,United States Virgin Islands,AMRO,0,73,0,6,,,3263348.441,163448.2095
-6/19/20,VI,United States Virgin Islands,AMRO,0,73,0,6,,,3320320.95,166304.0489
-6/20/20,VI,United States Virgin Islands,AMRO,0,73,0,6,,,3377952.093,169192.9035
-6/21/20,VI,United States Virgin Islands,AMRO,1,74,0,6,,,3436245.656,172114.963
-6/22/20,VI,United States Virgin Islands,AMRO,2,76,0,6,,,3495205.424,175070.417
-6/23/20,VI,United States Virgin Islands,AMRO,0,76,0,6,,,3554835.183,178059.4554
-6/24/20,VI,United States Virgin Islands,AMRO,0,76,0,6,,,3615138.716,181082.2679
-6/25/20,VI,United States Virgin Islands,AMRO,0,76,0,6,,,3676119.811,184139.0442
-6/26/20,VI,United States Virgin Islands,AMRO,4,80,0,6,,,3737782.251,187229.9741
-6/27/20,VI,United States Virgin Islands,AMRO,1,81,0,6,,,3800129.823,190355.2473
-6/28/20,VI,United States Virgin Islands,AMRO,0,81,0,6,,,3863166.311,193515.0536
-6/29/20,VI,United States Virgin Islands,AMRO,0,81,0,6,,,3926895.5,196709.5826
-6/30/20,VI,United States Virgin Islands,AMRO,0,81,0,6,,,3991321.177,199939.0242
-7/1/20,VI,United States Virgin Islands,AMRO,3,84,0,6,,,4056447.126,203203.5681
-7/2/20,VI,United States Virgin Islands,AMRO,6,90,0,6,,,4122277.133,206503.404
-7/3/20,VI,United States Virgin Islands,AMRO,2,92,0,6,,,4188814.982,209838.7216
-7/4/20,VI,United States Virgin Islands,AMRO,6,98,0,6,,,4256064.459,213209.7108
-7/5/20,VI,United States Virgin Islands,AMRO,13,111,0,6,,,4324029.349,216616.5612
-7/6/20,VI,United States Virgin Islands,AMRO,0,111,0,6,,,4392713.438,220059.4627
-7/7/20,VI,United States Virgin Islands,AMRO,1,112,0,6,,,4462120.511,223538.6048
-7/8/20,VI,United States Virgin Islands,AMRO,4,116,0,6,,,4532254.353,227054.1774
-7/9/20,VI,United States Virgin Islands,AMRO,6,122,0,6,,,4603118.749,230606.3703
-7/10/20,VI,United States Virgin Islands,AMRO,22,144,0,6,,,4674717.485,234195.3731
-7/11/20,VI,United States Virgin Islands,AMRO,9,153,0,6,,,4747054.345,237821.3757
-7/12/20,VI,United States Virgin Islands,AMRO,14,167,0,6,,,4820133.115,241484.5675
-7/13/20,VI,United States Virgin Islands,AMRO,14,181,0,6,,,4893957.581,245185.1387
-7/14/20,VI,United States Virgin Islands,AMRO,25,206,0,6,,,4968531.527,248923.2787
-7/15/20,VI,United States Virgin Islands,AMRO,0,206,0,6,,,5043858.74,252699.1775
-7/16/20,VI,United States Virgin Islands,AMRO,37,243,0,6,,,5119943.003,256513.0247
-7/17/20,VI,United States Virgin Islands,AMRO,6,249,0,6,,,5196788.102,260365.01
-7/18/20,VI,United States Virgin Islands,AMRO,14,263,0,6,,,5274397.823,264255.3232
-3/15/20,UY,Uruguay,AMRO,4,4,0,0,,,5352775.951,268184.154
-3/16/20,UY,Uruguay,AMRO,0,4,0,0,,,5431926.271,272151.6923
-3/17/20,UY,Uruguay,AMRO,2,6,0,0,,,5511852.569,276158.1276
-3/18/20,UY,Uruguay,AMRO,23,29,0,0,,,5592558.628,280203.6498
-3/19/20,UY,Uruguay,AMRO,50,79,0,0,,,5674048.236,284288.4487
-3/20/20,UY,Uruguay,AMRO,15,94,0,0,,,5756325.177,288412.7139
-3/21/20,UY,Uruguay,AMRO,0,94,0,0,,,5839393.236,292576.6351
+7/18/20,TZ,United Republic of Tanzania,AFRO,0,509,0,21,,,,
+1/20/20,US,United States of America,AMRO,1,1,0,0,,,-3148.377943,-290.2442797
+1/21/20,US,United States of America,AMRO,0,1,0,0,,,-3147.747067,-290.212656
+1/22/20,US,United States of America,AMRO,0,1,0,0,,,-3143.330936,-289.9912902
+1/23/20,US,United States of America,AMRO,0,1,0,0,,,-3131.344294,-289.3904404
+1/24/20,US,United States of America,AMRO,1,2,0,0,,,-3108.001886,-288.2203643
+1/25/20,US,United States of America,AMRO,0,2,0,0,,,-3069.518457,-286.29132
+1/26/20,US,United States of America,AMRO,3,5,0,0,,,-3012.108751,-283.4135653
+1/27/20,US,United States of America,AMRO,0,5,0,0,,,-2931.987513,-279.3973582
+1/28/20,US,United States of America,AMRO,0,5,0,0,,,-2825.369487,-274.0529567
+1/29/20,US,United States of America,AMRO,0,5,0,0,,,-2688.469419,-267.1906186
+1/30/20,US,United States of America,AMRO,1,6,0,0,,,-2517.502053,-258.6206019
+1/31/20,US,United States of America,AMRO,1,7,0,0,,,-2308.682134,-248.1531646
+2/1/20,US,United States of America,AMRO,1,8,0,0,,,-2058.224406,-235.5985646
+2/2/20,US,United States of America,AMRO,0,8,0,0,,,-1762.343613,-220.7670597
+2/3/20,US,United States of America,AMRO,3,11,0,0,,,-1417.254502,-203.468908
+2/4/20,US,United States of America,AMRO,0,11,0,0,,,-1019.171815,-183.5143673
+2/5/20,US,United States of America,AMRO,0,11,0,0,,,-564.3102988,-160.7136957
+2/6/20,US,United States of America,AMRO,1,12,0,0,,,-48.88469696,-134.877151
+2/7/20,US,United States of America,AMRO,0,12,0,0,,,530.8902457,-105.8149912
+2/8/20,US,United States of America,AMRO,0,12,0,0,,,1178.799784,-73.33747418
+2/9/20,US,United States of America,AMRO,0,12,0,0,,,1898.629174,-37.25485787
+2/10/20,US,United States of America,AMRO,0,12,0,0,,,2694.163671,2.622599712
+2/11/20,US,United States of America,AMRO,1,13,0,0,,,3569.18853,46.48464081
+2/12/20,US,United States of America,AMRO,0,13,0,0,,,4527.489007,94.52100724
+2/13/20,US,United States of America,AMRO,2,15,0,0,,,5572.850356,146.9214411
+2/14/20,US,United States of America,AMRO,0,15,0,0,,,6709.057833,203.8756848
+2/15/20,US,United States of America,AMRO,0,15,0,0,,,7939.896694,265.5734801
+2/16/20,US,United States of America,AMRO,0,15,0,0,,,9269.152194,332.204569
+2/17/20,US,United States of America,AMRO,0,15,0,0,,,10700.60959,403.9586938
+2/18/20,US,United States of America,AMRO,0,15,0,0,,,12238.05413,481.0255963
+2/19/20,US,United States of America,AMRO,0,15,0,0,,,13885.27108,563.5950189
+2/20/20,US,United States of America,AMRO,0,15,0,0,,,15646.04569,651.8567035
+2/21/20,US,United States of America,AMRO,19,34,0,0,,,17524.16321,746.000392
+2/22/20,US,United States of America,AMRO,1,35,0,0,,,19523.4089,846.2158268
+2/23/20,US,United States of America,AMRO,0,35,0,0,,,21647.56803,952.6927498
+2/24/20,US,United States of America,AMRO,18,53,0,0,,,23900.42583,1065.620903
+2/25/20,US,United States of America,AMRO,0,53,0,0,,,26285.76757,1185.190028
+2/26/20,US,United States of America,AMRO,6,59,0,0,,,28807.3785,1311.589868
+2/27/20,US,United States of America,AMRO,0,59,0,0,,,31469.04388,1445.010164
+2/28/20,US,United States of America,AMRO,3,62,0,0,,,34274.54896,1585.640659
+2/29/20,US,United States of America,AMRO,0,62,0,0,,,37227.679,1733.671095
+3/1/20,US,United States of America,AMRO,0,62,0,0,,,40332.21925,1889.291212
+3/2/20,US,United States of America,AMRO,2,64,0,0,,,43591.95497,2052.690755
+3/3/20,US,United States of America,AMRO,44,108,2,2,,,47010.67142,2224.059465
+3/4/20,US,United States of America,AMRO,21,129,3,5,,,50592.15384,2403.587084
+3/5/20,US,United States of America,AMRO,19,148,5,10,,,54340.1875,2591.463353
+3/6/20,US,United States of America,AMRO,65,213,1,11,,,58258.55766,2787.878016
+3/7/20,US,United States of America,AMRO,0,213,0,11,,,62351.04955,2993.020813
+3/8/20,US,United States of America,AMRO,0,213,0,11,,,66621.44845,3207.081487
+3/9/20,US,United States of America,AMRO,259,472,8,19,,,71073.5396,3430.249782
+3/10/20,US,United States of America,AMRO,224,696,6,25,,,75711.10827,3662.715436
+3/11/20,US,United States of America,AMRO,0,696,0,25,,,80537.9397,3904.668194
+3/12/20,US,United States of America,AMRO,291,987,4,29,,,85557.81915,4156.297798
+3/13/20,US,United States of America,AMRO,277,1264,7,36,,,90774.53189,4417.793989
+3/14/20,US,United States of America,AMRO,414,1678,5,41,,,96191.86315,4689.34651
+3/15/20,US,United States of America,AMRO,36,1714,0,41,,,101813.5982,4971.145102
+3/16/20,US,United States of America,AMRO,0,1714,0,41,,,107643.5223,5263.379508
+3/17/20,US,United States of America,AMRO,1822,3536,17,58,,,113685.4207,5566.239469
+3/18/20,US,United States of America,AMRO,3551,7087,42,100,,,119943.0786,5879.914728
+3/19/20,US,United States of America,AMRO,3355,10442,50,150,,,126420.2814,6204.595028
+3/20/20,US,United States of America,AMRO,4777,15219,51,201,,,133120.8142,6540.470109
+3/21/20,US,United States of America,AMRO,0,15219,0,201,,,140048.4624,6887.729714
+3/22/20,US,United States of America,AMRO,0,15219,0,201,,,147207.0111,7246.563586
+3/23/20,US,United States of America,AMRO,16354,31573,201,402,,,154600.2456,7617.161465
+3/24/20,US,United States of America,AMRO,20341,51914,271,673,,,162231.9513,7999.713094
+3/25/20,US,United States of America,AMRO,0,51914,0,673,,,170105.9133,8394.408216
+3/26/20,US,United States of America,AMRO,16420,68334,318,991,,,178225.9168,8801.436572
+3/27/20,US,United States of America,AMRO,0,68334,0,991,,,186595.7473,9220.987906
+3/28/20,US,United States of America,AMRO,16894,85228,252,1243,,,195219.1898,9653.251956
+3/29/20,US,United States of America,AMRO,18093,103321,425,1668,,,204100.0297,10098.41847
+3/30/20,US,United States of America,AMRO,19332,122653,444,2112,,,213242.0522,10556.67718
+3/31/20,US,United States of America,AMRO,17987,140640,286,2398,,,222649.0426,11028.21784
+4/1/20,US,United States of America,AMRO,22559,163199,452,2850,,,232324.7861,11513.23018
+4/2/20,US,United States of America,AMRO,24103,187302,996,3846,,,242273.068,12011.90396
+4/3/20,US,United States of America,AMRO,26298,213600,947,4793,,,252497.6736,12524.4289
+4/4/20,US,United States of America,AMRO,28103,241703,1061,5854,,,263002.388,13050.99476
+4/5/20,US,United States of America,AMRO,32105,273808,1166,7020,,,273790.9966,13591.79127
+4/6/20,US,United States of America,AMRO,33510,307318,1338,8358,,,284867.2846,14147.00818
+4/7/20,US,United States of America,AMRO,26493,333811,1201,9559,,,296235.0373,14716.83523
+4/8/20,US,United States of America,AMRO,29510,363321,1286,10845,,,307898.0398,15301.46216
+4/9/20,US,United States of America,AMRO,31709,395030,1895,12740,,,319860.0776,15901.07872
+4/10/20,US,United States of America,AMRO,30859,425889,1925,14665,,,332124.9357,16515.87463
+4/11/20,US,United States of America,AMRO,35386,461275,1931,16596,,,344696.3996,17146.03966
+4/12/20,US,United States of America,AMRO,31606,492881,1920,18516,,,357578.2544,17791.76353
+4/13/20,US,United States of America,AMRO,31633,524514,1928,20444,,,370774.2854,18453.236
+4/14/20,US,United States of America,AMRO,29308,553822,1528,21972,,,384288.2778,19130.6468
+4/15/20,US,United States of America,AMRO,24446,578268,1504,23476,,,398124.0169,19824.18568
+4/16/20,US,United States of America,AMRO,25802,604070,2395,25871,,,412285.288,20534.04237
+4/17/20,US,United States of America,AMRO,28711,632781,6409,32280,,,426775.8764,21260.40663
+4/18/20,US,United States of America,AMRO,32549,665330,2018,34298,,,441599.5671,22003.46818
+4/19/20,US,United States of America,AMRO,30023,695353,2438,36736,,,456760.1456,22763.41678
+4/20/20,US,United States of America,AMRO,28252,723605,1776,38512,,,472261.3971,23540.44216
+4/21/20,US,United States of America,AMRO,27668,751273,1801,40313,,,488107.1068,24334.73408
+4/22/20,US,United States of America,AMRO,25634,776907,2154,42467,,,504301.0601,25146.48226
+4/23/20,US,United States of America,AMRO,24019,800926,2575,45042,,,520847.042,25975.87646
+4/24/20,US,United States of America,AMRO,29127,830053,2390,47432,,,537748.838,26823.10641
+4/25/20,US,United States of America,AMRO,30719,860772,1742,49174,,,555010.2332,27688.36185
+4/26/20,US,United States of America,AMRO,38509,899281,2151,51325,,,572635.0129,28571.83254
+4/27/20,US,United States of America,AMRO,32417,931698,1964,53289,,,590626.9624,29473.70821
+4/28/20,US,United States of America,AMRO,29218,960916,1109,54398,,,608989.8669,30394.17859
+4/29/20,US,United States of America,AMRO,22541,983457,1322,55720,,,627727.5117,31333.43345
+4/30/20,US,United States of America,AMRO,20517,1003974,2010,57730,,,646843.6821,32291.6625
+5/1/20,US,United States of America,AMRO,31379,1035353,2902,60632,,,666342.1632,33269.05551
+5/2/20,US,United States of America,AMRO,31774,1067127,2005,62637,,,686226.7404,34265.80221
+5/3/20,US,United States of America,AMRO,26753,1093880,5000,67637,,,706501.1988,35282.09234
+5/4/20,US,United States of America,AMRO,31839,1125719,156,67793,,,727169.3239,36318.11565
+5/5/20,US,United States of America,AMRO,29266,1154985,-514,67279,,,748234.9007,37374.06187
+5/6/20,US,United States of America,AMRO,16200,1171185,802,68081,,,769701.7146,38450.12074
+5/7/20,US,United States of America,AMRO,22267,1193452,2475,70556,,,791573.5508,39546.48204
+5/8/20,US,United States of America,AMRO,22119,1215571,1968,72524,,,813854.1946,40663.33546
+5/9/20,US,United States of America,AMRO,30204,1245775,2840,75364,,,836547.4312,41800.87077
+5/10/20,US,United States of America,AMRO,25870,1271645,1552,76916,,,859657.0459,42959.27771
+5/11/20,US,United States of America,AMRO,26642,1298287,1736,78652,,,883186.824,44138.74602
+5/12/20,US,United States of America,AMRO,23767,1322054,982,79634,,,907140.5507,45339.46544
+5/13/20,US,United States of America,AMRO,18044,1340098,1061,80695,,,931522.0112,46561.62571
+5/14/20,US,United States of America,AMRO,21424,1361522,1424,82119,,,956334.9908,47805.41658
+5/15/20,US,United States of America,AMRO,20840,1382362,1700,83819,,,981583.2748,49071.02778
+5/16/20,US,United States of America,AMRO,27090,1409452,2041,85860,,,1007270.648,50358.64907
+5/17/20,US,United States of America,AMRO,22813,1432265,1320,87180,,,1033400.897,51668.47018
+5/18/20,US,United States of America,AMRO,31967,1464232,1394,88574,,,1059977.805,53000.68087
+5/19/20,US,United States of America,AMRO,13227,1477459,697,89271,,,1087005.159,54355.47083
+5/20/20,US,United States of America,AMRO,24417,1501876,932,90203,,,1114486.744,55733.02986
+5/21/20,US,United States of America,AMRO,23310,1525186,1324,91527,,,1142426.345,57133.54767
+5/22/20,US,United States of America,AMRO,22787,1547973,1396,92923,,,1170827.746,58557.21401
+5/23/20,US,United States of America,AMRO,20475,1568448,1088,94011,,,1199694.734,60004.21865
+5/24/20,US,United States of America,AMRO,24151,1592599,1852,95863,,,1229031.094,61474.75128
+5/25/20,US,United States of America,AMRO,26158,1618757,1046,96909,,,1258840.611,62969.00168
+5/26/20,US,United States of America,AMRO,15253,1634010,620,97529,,,1289127.07,64487.15958
+5/27/20,US,United States of America,AMRO,24886,1658896,590,98119,,,1319894.256,66029.41471
+5/28/20,US,United States of America,AMRO,16362,1675258,770,98889,,,1351145.955,67595.95685
+5/29/20,US,United States of America,AMRO,19606,1694864,1415,100304,,,1382885.952,69186.97568
+5/30/20,US,United States of America,AMRO,21214,1716078,1263,101567,,,1415118.032,70802.66101
+5/31/20,US,United States of America,AMRO,17962,1734040,1073,102640,,,1447845.98,72443.20253
+6/1/20,US,United States of America,AMRO,23482,1757522,914,103554,,,1481073.583,74108.79002
+6/2/20,US,United States of America,AMRO,26116,1783638,693,104247,,,1514804.624,75799.61321
+6/3/20,US,United States of America,AMRO,14692,1798330,761,105008,,,1549042.889,77515.8618
+6/4/20,US,United States of America,AMRO,24890,1823220,1043,106051,,,1583792.164,79257.72561
+6/5/20,US,United States of America,AMRO,14583,1837803,825,106876,,,1619056.234,81025.3943
+6/6/20,US,United States of America,AMRO,20069,1857872,1035,107911,,,1654838.883,82819.05768
+6/7/20,US,United States of America,AMRO,28922,1886794,1127,109038,,,1691143.898,84638.90547
+6/8/20,US,United States of America,AMRO,28918,1915712,708,109746,,,1727975.063,86485.1274
+6/9/20,US,United States of America,AMRO,17848,1933560,474,110220,,,1765336.164,88357.91321
+6/10/20,US,United States of America,AMRO,17536,1951096,550,110770,,,1803230.986,90257.45268
+6/11/20,US,United States of America,AMRO,17235,1968331,1208,111978,,,1841663.315,92183.93547
+6/12/20,US,United States of America,AMRO,20315,1988646,832,112810,,,1880636.935,94137.55142
+6/13/20,US,United States of America,AMRO,21745,2010391,947,113757,,,1920155.631,96118.49022
+6/14/20,US,United States of America,AMRO,22133,2032524,709,114466,,,1960223.19,98126.94161
+6/15/20,US,United States of America,AMRO,25314,2057838,646,115112,,,2000843.396,100163.0953
+6/16/20,US,United States of America,AMRO,21754,2079592,372,115484,,,2042020.034,102227.1412
+6/17/20,US,United States of America,AMRO,18514,2098106,496,115980,,,2083756.89,104319.2688
+6/18/20,US,United States of America,AMRO,27921,2126027,722,116702,,,2126057.75,106439.668
+6/19/20,US,United States of America,AMRO,23139,2149166,770,117472,,,2168926.397,108588.5286
+6/20/20,US,United States of America,AMRO,23046,2172212,733,118205,,,2212366.618,110766.0401
+6/21/20,US,United States of America,AMRO,36617,2208829,690,118895,,,2256382.198,112972.3925
+6/22/20,US,United States of America,AMRO,32349,2241178,558,119453,,,2300976.922,115207.7754
+6/23/20,US,United States of America,AMRO,27575,2268753,308,119761,,,2346154.576,117472.3786
+6/24/20,US,United States of America,AMRO,26519,2295272,410,120171,,,2391918.944,119766.3918
+6/25/20,US,United States of America,AMRO,34191,2329463,784,120955,,,2438273.811,122090.0048
+6/26/20,US,United States of America,AMRO,37601,2367064,690,121645,,,2485222.964,124443.4072
+6/27/20,US,United States of America,AMRO,40526,2407590,2516,124161,,,2532770.187,126826.7889
+6/28/20,US,United States of America,AMRO,44458,2452048,650,124811,,,2580919.266,129240.3397
+6/29/20,US,United States of America,AMRO,44580,2496628,507,125318,,,2629673.986,131684.2491
+6/30/20,US,United States of America,AMRO,41008,2537636,885,126203,,,2679038.132,134158.707
+7/1/20,US,United States of America,AMRO,35757,2573393,370,126573,,,2729015.489,136663.9031
+7/2/20,US,United States of America,AMRO,43556,2616949,560,127133,,,2779609.842,139200.0272
+7/3/20,US,United States of America,AMRO,54271,2671220,725,127858,,,2830824.978,141767.269
+7/4/20,US,United States of America,AMRO,53213,2724433,623,128481,,,2882664.681,144365.8182
+7/5/20,US,United States of America,AMRO,51933,2776366,745,129226,,,2935132.736,146995.8646
+7/6/20,US,United States of America,AMRO,57186,2833552,182,129408,,,2988232.929,149657.598
+7/7/20,US,United States of America,AMRO,43686,2877238,235,129643,,,3041969.044,152351.2079
+7/8/20,US,United States of America,AMRO,46194,2923432,320,129963,,,3096344.868,155076.8844
+7/9/20,US,United States of America,AMRO,50263,2973695,930,130893,,,3151364.185,157834.8169
+7/10/20,US,United States of America,AMRO,64630,3038325,991,131884,,,3207030.781,160625.1954
+7/11/20,US,United States of America,AMRO,58975,3097300,799,132683,,,3263348.441,163448.2095
+7/12/20,US,United States of America,AMRO,66281,3163581,803,133486,,,3320320.95,166304.0489
+7/13/20,US,United States of America,AMRO,62369,3225950,906,134392,,,3377952.093,169192.9035
+7/14/20,US,United States of America,AMRO,60113,3286063,312,134704,,,3436245.656,172114.963
+7/15/20,US,United States of America,AMRO,58720,3344783,349,135053,,,3495205.424,175070.417
+7/16/20,US,United States of America,AMRO,60711,3405494,754,135807,,,3554835.183,178059.4554
+7/17/20,US,United States of America,AMRO,67165,3472659,946,136753,,,3615138.716,181082.2679
+7/18/20,US,United States of America,AMRO,71484,3544143,921,137674,,,3676119.811,184139.0442
+7/19/20,US,United States of America,AMRO,,,,,,,3737782.251,187229.9741
+7/20/20,US,United States of America,AMRO,,,,,,,3800129.823,190355.2473
+7/21/20,US,United States of America,AMRO,,,,,,,3863166.311,193515.0536
+7/22/20,US,United States of America,AMRO,,,,,,,3926895.5,196709.5826
+7/23/20,US,United States of America,AMRO,,,,,,,3991321.177,199939.0242
+7/24/20,US,United States of America,AMRO,,,,,,,4056447.126,203203.5681
+7/25/20,US,United States of America,AMRO,,,,,,,4122277.133,206503.404
+7/26/20,US,United States of America,AMRO,,,,,,,4188814.982,209838.7216
+7/27/20,US,United States of America,AMRO,,,,,,,4256064.459,213209.7108
+7/28/20,US,United States of America,AMRO,,,,,,,4324029.349,216616.5612
+7/29/20,US,United States of America,AMRO,,,,,,,4392713.438,220059.4627
+7/30/20,US,United States of America,AMRO,,,,,,,4462120.511,223538.6048
+7/31/20,US,United States of America,AMRO,,,,,,,4532254.353,227054.1774
+8/1/20,US,United States of America,AMRO,,,,,,,4603118.749,230606.3703
+8/2/20,US,United States of America,AMRO,,,,,,,4674717.485,234195.3731
+8/3/20,US,United States of America,AMRO,,,,,,,4747054.345,237821.3757
+8/4/20,US,United States of America,AMRO,,,,,,,4820133.115,241484.5675
+8/5/20,US,United States of America,AMRO,,,,,,,4893957.581,245185.1387
+8/6/20,US,United States of America,AMRO,,,,,,,4968531.527,248923.2787
+8/7/20,US,United States of America,AMRO,,,,,,,5043858.74,252699.1775
+8/8/20,US,United States of America,AMRO,,,,,,,5119943.003,256513.0247
+8/9/20,US,United States of America,AMRO,,,,,,,5196788.102,260365.01
+8/10/20,US,United States of America,AMRO,,,,,,,5274397.823,264255.3232
+8/11/20,US,United States of America,AMRO,,,,,,,5352775.951,268184.154
+8/12/20,US,United States of America,AMRO,,,,,,,5431926.271,272151.6923
+8/13/20,US,United States of America,AMRO,,,,,,,5511852.569,276158.1276
+8/14/20,US,United States of America,AMRO,,,,,,,5592558.628,280203.6498
+8/15/20,US,United States of America,AMRO,,,,,,,5674048.236,284288.4487
+8/16/20,US,United States of America,AMRO,,,,,,,5756325.177,288412.7139
+8/17/20,US,United States of America,AMRO,,,,,,,5839393.236,292576.6351
+3/13/20,VI,United States Virgin Islands,AMRO,1,1,0,0,,,,
+3/14/20,VI,United States Virgin Islands,AMRO,0,1,0,0,,,,
+3/15/20,VI,United States Virgin Islands,AMRO,0,1,0,0,,,,
+3/16/20,VI,United States Virgin Islands,AMRO,0,1,0,0,,,,
+3/17/20,VI,United States Virgin Islands,AMRO,1,2,0,0,,,,
+3/18/20,VI,United States Virgin Islands,AMRO,1,3,0,0,,,,
+3/19/20,VI,United States Virgin Islands,AMRO,0,3,0,0,,,,
+3/20/20,VI,United States Virgin Islands,AMRO,0,3,0,0,,,,
+3/21/20,VI,United States Virgin Islands,AMRO,3,6,0,0,,,,
+3/22/20,VI,United States Virgin Islands,AMRO,0,6,0,0,,,,
+3/23/20,VI,United States Virgin Islands,AMRO,0,6,0,0,,,,
+3/24/20,VI,United States Virgin Islands,AMRO,11,17,0,0,,,,
+3/25/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,,
+3/26/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,,
+3/27/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,,
+3/28/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,,
+3/29/20,VI,United States Virgin Islands,AMRO,0,17,0,0,,,,
+3/30/20,VI,United States Virgin Islands,AMRO,5,22,0,0,,,,
+3/31/20,VI,United States Virgin Islands,AMRO,8,30,0,0,,,,
+4/1/20,VI,United States Virgin Islands,AMRO,0,30,0,0,,,,
+4/2/20,VI,United States Virgin Islands,AMRO,0,30,0,0,,,,
+4/3/20,VI,United States Virgin Islands,AMRO,3,33,0,0,,,,
+4/4/20,VI,United States Virgin Islands,AMRO,4,37,0,0,,,,
+4/5/20,VI,United States Virgin Islands,AMRO,3,40,0,0,,,,
+4/6/20,VI,United States Virgin Islands,AMRO,2,42,0,0,,,,
+4/7/20,VI,United States Virgin Islands,AMRO,1,43,1,1,,,,
+4/8/20,VI,United States Virgin Islands,AMRO,0,43,0,1,,,,
+4/9/20,VI,United States Virgin Islands,AMRO,2,45,0,1,,,,
+4/10/20,VI,United States Virgin Islands,AMRO,1,46,0,1,,,,
+4/11/20,VI,United States Virgin Islands,AMRO,5,51,0,1,,,,
+4/12/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,,
+4/13/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,,
+4/14/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,,
+4/15/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,,
+4/16/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,,
+4/17/20,VI,United States Virgin Islands,AMRO,0,51,0,1,,,,
+4/18/20,VI,United States Virgin Islands,AMRO,0,51,1,2,,,,
+4/19/20,VI,United States Virgin Islands,AMRO,2,53,1,3,,,,
+4/20/20,VI,United States Virgin Islands,AMRO,0,53,0,3,,,,
+4/21/20,VI,United States Virgin Islands,AMRO,0,53,0,3,,,,
+4/22/20,VI,United States Virgin Islands,AMRO,1,54,0,3,,,,
+4/23/20,VI,United States Virgin Islands,AMRO,0,54,0,3,,,,
+4/24/20,VI,United States Virgin Islands,AMRO,0,54,0,3,,,,
+4/25/20,VI,United States Virgin Islands,AMRO,0,54,0,3,,,,
+4/26/20,VI,United States Virgin Islands,AMRO,1,55,0,3,,,,
+4/27/20,VI,United States Virgin Islands,AMRO,0,55,0,3,,,,
+4/28/20,VI,United States Virgin Islands,AMRO,4,59,1,4,,,,
+4/29/20,VI,United States Virgin Islands,AMRO,0,59,0,4,,,,
+4/30/20,VI,United States Virgin Islands,AMRO,3,62,0,4,,,,
+5/1/20,VI,United States Virgin Islands,AMRO,4,66,0,4,,,,
+5/2/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,,
+5/3/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,,
+5/4/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,,
+5/5/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,,
+5/6/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,,
+5/7/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,,
+5/8/20,VI,United States Virgin Islands,AMRO,0,66,0,4,,,,
+5/9/20,VI,United States Virgin Islands,AMRO,2,68,0,4,,,,
+5/10/20,VI,United States Virgin Islands,AMRO,0,68,0,4,,,,
+5/11/20,VI,United States Virgin Islands,AMRO,1,69,0,4,,,,
+5/12/20,VI,United States Virgin Islands,AMRO,0,69,1,5,,,,
+5/13/20,VI,United States Virgin Islands,AMRO,0,69,0,5,,,,
+5/14/20,VI,United States Virgin Islands,AMRO,0,69,1,6,,,,
+5/15/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/16/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/17/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/18/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/19/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/20/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/21/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/22/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/23/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/24/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/25/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/26/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/27/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/28/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/29/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/30/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+5/31/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+6/1/20,VI,United States Virgin Islands,AMRO,0,69,0,6,,,,
+6/2/20,VI,United States Virgin Islands,AMRO,1,70,0,6,,,,
+6/3/20,VI,United States Virgin Islands,AMRO,0,70,0,6,,,,
+6/4/20,VI,United States Virgin Islands,AMRO,0,70,0,6,,,,
+6/5/20,VI,United States Virgin Islands,AMRO,1,71,0,6,,,,
+6/6/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,,
+6/7/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,,
+6/8/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,,
+6/9/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,,
+6/10/20,VI,United States Virgin Islands,AMRO,0,71,0,6,,,,
+6/11/20,VI,United States Virgin Islands,AMRO,1,72,0,6,,,,
+6/12/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,,
+6/13/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,,
+6/14/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,,
+6/15/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,,
+6/16/20,VI,United States Virgin Islands,AMRO,0,72,0,6,,,,
+6/17/20,VI,United States Virgin Islands,AMRO,1,73,0,6,,,,
+6/18/20,VI,United States Virgin Islands,AMRO,0,73,0,6,,,,
+6/19/20,VI,United States Virgin Islands,AMRO,0,73,0,6,,,,
+6/20/20,VI,United States Virgin Islands,AMRO,0,73,0,6,,,,
+6/21/20,VI,United States Virgin Islands,AMRO,1,74,0,6,,,,
+6/22/20,VI,United States Virgin Islands,AMRO,2,76,0,6,,,,
+6/23/20,VI,United States Virgin Islands,AMRO,0,76,0,6,,,,
+6/24/20,VI,United States Virgin Islands,AMRO,0,76,0,6,,,,
+6/25/20,VI,United States Virgin Islands,AMRO,0,76,0,6,,,,
+6/26/20,VI,United States Virgin Islands,AMRO,4,80,0,6,,,,
+6/27/20,VI,United States Virgin Islands,AMRO,1,81,0,6,,,,
+6/28/20,VI,United States Virgin Islands,AMRO,0,81,0,6,,,,
+6/29/20,VI,United States Virgin Islands,AMRO,0,81,0,6,,,,
+6/30/20,VI,United States Virgin Islands,AMRO,0,81,0,6,,,,
+7/1/20,VI,United States Virgin Islands,AMRO,3,84,0,6,,,,
+7/2/20,VI,United States Virgin Islands,AMRO,6,90,0,6,,,,
+7/3/20,VI,United States Virgin Islands,AMRO,2,92,0,6,,,,
+7/4/20,VI,United States Virgin Islands,AMRO,6,98,0,6,,,,
+7/5/20,VI,United States Virgin Islands,AMRO,13,111,0,6,,,,
+7/6/20,VI,United States Virgin Islands,AMRO,0,111,0,6,,,,
+7/7/20,VI,United States Virgin Islands,AMRO,1,112,0,6,,,,
+7/8/20,VI,United States Virgin Islands,AMRO,4,116,0,6,,,,
+7/9/20,VI,United States Virgin Islands,AMRO,6,122,0,6,,,,
+7/10/20,VI,United States Virgin Islands,AMRO,22,144,0,6,,,,
+7/11/20,VI,United States Virgin Islands,AMRO,9,153,0,6,,,,
+7/12/20,VI,United States Virgin Islands,AMRO,14,167,0,6,,,,
+7/13/20,VI,United States Virgin Islands,AMRO,14,181,0,6,,,,
+7/14/20,VI,United States Virgin Islands,AMRO,25,206,0,6,,,,
+7/15/20,VI,United States Virgin Islands,AMRO,0,206,0,6,,,,
+7/16/20,VI,United States Virgin Islands,AMRO,37,243,0,6,,,,
+7/17/20,VI,United States Virgin Islands,AMRO,6,249,0,6,,,,
+7/18/20,VI,United States Virgin Islands,AMRO,14,263,0,6,,,,
+3/15/20,UY,Uruguay,AMRO,4,4,0,0,,,,
+3/16/20,UY,Uruguay,AMRO,0,4,0,0,,,,
+3/17/20,UY,Uruguay,AMRO,2,6,0,0,,,,
+3/18/20,UY,Uruguay,AMRO,23,29,0,0,,,,
+3/19/20,UY,Uruguay,AMRO,50,79,0,0,,,,
+3/20/20,UY,Uruguay,AMRO,15,94,0,0,,,,
+3/21/20,UY,Uruguay,AMRO,0,94,0,0,,,,
 3/22/20,UY,Uruguay,AMRO,0,94,0,0,,,,
 3/23/20,UY,Uruguay,AMRO,41,135,0,0,,,,
 3/24/20,UY,Uruguay,AMRO,27,162,0,0,,,,
@@ -28611,6 +28715,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,UZ,Uzbekistan,EURO,421,14293,4,68,,,,
 7/16/20,UZ,Uzbekistan,EURO,494,14787,4,72,,,,
 7/17/20,UZ,Uzbekistan,EURO,562,15349,4,76,,,,
+7/18/20,UZ,Uzbekistan,EURO,547,15896,4,80,,,,
 3/14/20,VE,Venezuela (Bolivarian Republic of),AMRO,2,2,0,0,,,,
 3/15/20,VE,Venezuela (Bolivarian Republic of),AMRO,15,17,0,0,,,,
 3/16/20,VE,Venezuela (Bolivarian Republic of),AMRO,0,17,0,0,,,,
@@ -29137,6 +29242,7 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ZM,Zambia,AFRO,0,2283,0,82,,,,
 7/16/20,ZM,Zambia,AFRO,0,2283,0,82,,,,
 7/17/20,ZM,Zambia,AFRO,0,2283,0,82,,,,
+7/18/20,ZM,Zambia,AFRO,527,2810,27,109,,,,
 3/20/20,ZW,Zimbabwe,AFRO,1,1,0,0,,,,
 3/21/20,ZW,Zimbabwe,AFRO,1,2,0,0,,,,
 3/22/20,ZW,Zimbabwe,AFRO,0,2,0,0,,,,
@@ -29257,3 +29363,4 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 7/15/20,ZW,Zimbabwe,AFRO,30,1064,1,20,,,,
 7/16/20,ZW,Zimbabwe,AFRO,25,1089,0,20,,,,
 7/17/20,ZW,Zimbabwe,AFRO,273,1362,3,23,,,,
+7/18/20,ZW,Zimbabwe,AFRO,58,1420,1,24,,,,
