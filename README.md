@@ -86,16 +86,13 @@ http://p3-env.eba-py98yrrw.us-east-1.elasticbeanstalk.com/
 <hr>
 
 # Conclusions:
-1.	
-2.	
-3.	
+1.	The virus spread quickly, in a period 6 months COVID-19 has touched every country.
+2.	Our predictions are really just extending the current trend and operate on the premise that nothing will change - obviously there are actions that could change these predictions. For example, if stay-at-home orders and mask wearing were enforced these predicted trends would be impacted.
+3.	The worst hit countries in terms of cases are not necssarily the worst hit cases in terms of deaths (this can be seen in the tree map)
 4.	
 5.	
 
-
 ## Key Takeaways:
-
-
 
 
 
