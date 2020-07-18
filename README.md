@@ -97,6 +97,8 @@ http://p3-env.eba-py98yrrw.us-east-1.elasticbeanstalk.com/
 
 7.  It is also curious that China having the largest population in the world and also the originator of Coronavirus is not even in top 10 affected countries by cases/deaths.
 
+8.  It is clear that these numbers may not be 100% accurate due to the availability of testing.  This is especially evident on the African Continent which appears not to be heavily impacted, this could be due to limited testing (https://www.bbc.com/news/world-africa-52801190)
+
 ## Key Takeaways:
 
 
