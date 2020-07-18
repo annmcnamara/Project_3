@@ -99,11 +99,7 @@ http://p3-env.eba-py98yrrw.us-east-1.elasticbeanstalk.com/
 
 8.  It is clear that these numbers may not be 100% accurate due to the lack of availability of testing.  This is especially evident on the African Continent which appears not to be heavily impacted, this could be due to limited testing (https://www.bbc.com/news/world-africa-52801190)
 
-## Key Takeaways:
-
-
-
-# References/Data Sources
+# References and Data Sources
 Map created with tableau public and data from here https://covid19.who.int/WHO-COVID-19-global-data.csv
 
 Machine Learning Models (in Jupyter Notebook) created by following this tutorial https://www.youtube.com/watch?v=sHWKN5dakPw
