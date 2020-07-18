@@ -90,7 +90,7 @@ http://p3-env.eba-py98yrrw.us-east-1.elasticbeanstalk.com/
 2.	Our predictions are really just extending the current trend and operate on the premise that nothing will change - obviously there are actions that could change these predictions. For example, if stay-at-home orders, improved testing and mask wearing were enforced these predicted trends would be impacted.
 3.	The worst hit countries in terms of cases are not necssarily the worst hit cases in terms of deaths (This can be seen in the tree map. For example, India is currently in the top three countries worst affected by cases but not one of the top countries affected by deaths).
 4.	The United States has been very badly affected and remains an area of concern given the fact that the US accounts for nearly one-quarter of all deaths.  Over the last three months the cases have grown at an alarming rate from around 300,000 to 3.2 Million. 
-5.	Five of the most populous countries (India, United States, Brazil, Russia, Mexico) are also most affected by Coronavirus cases. Additionally, China being number one by population and also the originator of Coronavirus is not even in top 10 affected countries by cases/death (as shown by the numbers.)
+5.	Five of the most populous countries (India, United States, Brazil, Russia, Mexico) are also most affected by Coronavirus cases. Additionally, China being number one by population and also the originator of Coronavirus is not even in top 10 affected countries by cases/death (as shown by the numbers, and in the map below.)
 
 ![Population](Images/Population.png)
 
