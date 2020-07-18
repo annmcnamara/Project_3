@@ -53,7 +53,7 @@ We did the following to transform the data:
 
 A table of the accuracy scores can be seen below.   As expected the model trained more accurately on some datasets than others. 
 
-![TrainingTable](Images/Dataset_07_17_SVM_Accuracy_Scores.PNG)
+![TrainingTable](accuracy.png)
 
 ## Data Load: 
 We then loaded the CSV file into a Tableau workbook. This workbook can be found at the following location:
