@@ -49,7 +49,7 @@ We did the following to transform the data:
 2.	Trained the Model on the existing data for the 10 worst affected countries. 
 3.	Used the Model to Predict the new daily cases, the new daily deaths, the cumulative cases and the cumulative deaths for each of the 10 worst affected countries.
 4.	Exported the original data along with the predicted data to a new CSV file. 
-5.  We also trained the model on global data on new daily cases, the new daily deaths, the cumulative cases and the cumulative deaths by date. 
+
 
 A table of the accuracy scores can be seen below.   As expected the model trained more accurately on some datasets than others. 
 
