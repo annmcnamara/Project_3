@@ -79,7 +79,7 @@ We then used Flask to create API routes in a file called application.py. This fi
 We then created an HTML file called index.html. This file contains the structure for the webpage. It also has an embedded link to connect to the Tableau workbook.
 <br>
 
-## Deploy to AWS:
+## Deployment to AWS:
 We then zipped all the relevant files and folders and uploaded them to an environment on AWS using the service called "Elastic Beanstalk". This environment then provided us a URL for our webpage as follows:
 <br>
 http://p3-env.eba-py98yrrw.us-east-1.elasticbeanstalk.com/
