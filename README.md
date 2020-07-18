@@ -88,13 +88,14 @@ http://p3-env.eba-py98yrrw.us-east-1.elasticbeanstalk.com/
 # Conclusions:
 1.	The virus spread quickly, in a period of 6 months COVID-19 has touched every country.
 2.	Our predictions are really just extending the current trend and operate on the premise that nothing will change - obviously there are actions that could change these predictions. For example, if stay-at-home orders, improved testing and mask wearing were enforced these predicted trends would be impacted.
-3.	The worst hit countries in terms of cases are not necssarily the worst hit cases in terms of deaths.  This can be seen in the tree map. For example, India has third highest number of cases till date but number of deaths are relatively low (Ranked 8 by number of deaths).  United Kingdom on the other hand has more deaths (Ranked 3 by number of deaths) than the relative number of cases.
-4.	The United States has been very badly affected and remains an area of concern given the fact that the US accounts for nearly one-quarter of all deaths.  Over the last three months the cases have grown at an alarming rate from around 300,000 to 3.2 Million. 
-5.  Five of the most populous countries (India, United States, Brazil, Russia, Mexico) are also most affected by Coronavirus cases, as shown in the map below. 
+3.  Our model can predict top five number of cases and death with an accuracy greater than 90%.
+4.	The worst hit countries in terms of cases are not necssarily the worst hit cases in terms of deaths.  This can be seen in the tree map. For example, India has third highest number of cases till date but number of deaths are relatively low (Ranked 8 by number of deaths).  United Kingdom on the other hand has more deaths (Ranked 3 by number of deaths) than the relative number of cases.
+5.	The United States has been very badly affected and remains an area of concern given the fact that the US accounts for nearly one-quarter of all deaths.  Over the last three months the cases have grown at an alarming rate from around 300,000 to 3.2 Million. 
+6.  Five of the most populous countries (India, United States, Brazil, Russia, Mexico) are also most affected by Coronavirus cases, as shown in the map below. 
 
 ![Population](Images/Population.png)
 
-6.  It is also curious that China having the largest population in the world and also the originator of Coronavirus is not even in top 10 affected countries by cases/deaths.
+7.  It is also curious that China having the largest population in the world and also the originator of Coronavirus is not even in top 10 affected countries by cases/deaths.
 
 ## Key Takeaways:
 
